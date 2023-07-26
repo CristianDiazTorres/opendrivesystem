@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 0,
+                "update_st": "true",
+                "tag": "t_road_railroad_switch_track"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "s": 1,
+                "update_st": "true",
+                "tag": "t_road_railroad_switch_track"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": "+",
+                "update_st": "true",
+                "tag": "t_road_railroad_switch_track"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": "-",
+                "update_st": "true",
+                "tag": "t_road_railroad_switch_track"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

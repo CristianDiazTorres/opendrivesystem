@@ -1,0 +1,100 @@
+#include "OSM/Way/Way.h"
+
+namespace _NOSM
+{
+/**************************************************************/
+
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayAbutters)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayAccess)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayBridge)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayBus_Bay)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayBusway)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayConveying)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayCovered)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayCrossing)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayCrossing_Ref)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayCycleway)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayEmbedded_Rails)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayFootway)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayFord)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayHighway)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayIndoor)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayJunction)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayKerb)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayLit)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayMaterial)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayOneway)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayOvertaking)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayParking_Condition)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayParking_Lane)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayPriority_Road)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayRamp)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayRamp_Luggage)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayRoute)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WaySac_Scale)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayService)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WaySidewalk)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WaySmoothness)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WaySurface)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTactile_Paving)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTracktype)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTraffic_Calming)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTrail_Visibility)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTunnel)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayTurn)
+_OSM_STRING_ENUM_MEMBERS_DEFINE(WayWheelchair)
+
+/**************************************************************/
+
+static class WayInitializer
+{
+public:
+    WayInitializer()
+    {
+        /**************************************************************/
+
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayAbutters)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayAccess)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayBridge)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayBus_Bay)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayBusway)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayConveying)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayCovered)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayCrossing)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayCrossing_Ref)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayCycleway)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayEmbedded_Rails)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayFootway)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayFord)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayHighway)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayIndoor)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayJunction)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayKerb)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayLit)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayMaterial)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayOneway)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayOvertaking)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayParking_Condition)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayParking_Lane)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayPriority_Road)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayRamp)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayRamp_Luggage)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayRoute)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WaySac_Scale)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayService)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WaySidewalk)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WaySmoothness)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WaySurface)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTactile_Paving)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTracktype)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTraffic_Calming)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTrail_Visibility)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTunnel)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayTurn)
+        _OSM_STRING_ENUM_MEMBERS_ADD(WayWheelchair)
+
+        /**************************************************************/
+    }
+} s_wayInitializer;
+
+}

@@ -1,0 +1,382 @@
+width:meter	36	1	0	
+width:meter	46	1	0
+width:feet	1	6	0	
+width:feet	10	2	0	
+width:feet	100	2	0	
+width:feet	151	13	0	
+width:ft	118	1	0	
+width:ft	151	1	0	
+
+width:forward	3	42	0	
+width:forward	3.5|	2	0	
+width:forward	8.6	1	0	
+width:backward	2	1	0	
+width:backward	40 ft	1	0	
+width:backward	6	2	0	
+width:start	4	2	0	
+width:start	16.5	1	0	
+width:end	3.75	1	0	
+width:end	20	1	0	
+width:left	1.5	1	0	
+width:left	2,5	1	0	
+width:right	1	1	0	
+width:right	18	1	0	
+width:top	5	1	0	
+width:east	5,8m	1	0	
+width:west	5,4m	1	0	
+
+width:available	3.3	1	0	
+width:effective	2	1	0	
+width:effective	8	1	0	
+width:average	0.5	1	0	
+width:average	12	5	0	
+width:maximum	14.4	2	0	
+width:minimum	11.7	2	0	
+
+width:dividers:end	4.3	1	0	
+width:dividers:end	4.8||	1	0	
+width:dividers:forward	0|1 lane	1	0	
+width:dividers:forward:end	0|1 lane	1	0	
+width:center_divider	0	1	0	
+width:center_divider	2x	1	0	
+width:centre_divider	1 lane	17	0	
+width:centre_divider	2.3	1	0	
+width:centre_divider:end	0		1	0	
+width:centre_divider:end	1 lane		6	0	
+width:centre_divider:end	2.8		1	0	
+width:centre_divider:end	3		1	0	
+width:centre_divider:start	0		1	0	
+width:centre_divider:start	3 lane		1	0	
+width:cutline	0.5	1	0	
+width:cutline	4.5	1	0	
+width:row	0.75			3	0	
+width:row	7 m			10	0	
+width:row	10			36	0	
+width:row	10 m either side	1	0	
+width:row	10m			2	0	
+width:row	20			140	0	
+width:row	20 m			1	0	
+width:shoulder	0	25	0	
+width:shoulder	.5	15	0	
+width:shoulder	0.5 m	5	0	
+width:shoulder	0.75	44	0	
+width:shoulder	4	3	0	
+shoulder:width	0-1	1	0	
+shoulder:width	0.0	2	0	
+shoulder:width	1'	8	0	
+shoulder:width	1.5m	9	0	
+shoulder:width	10 ft	66	0	
+shoulder:width	2.3|2.5	1	0	
+shoulder:width	8 ft	3	0	
+shoulder:width	8; 3.5	1	0	
+shoulder:left:width	6	4	0	
+shoulder:right:width	0.4	1	0	
+shoulder:right:width	8 ft	15	0	
+entrance:width	0.7	1	0	
+entrance:width	50	1	0	
+entrance:width	<0.9	1	0	
+entrance:width	>0.9	1	0	
+
+lane:width	2	5	0	
+lanes:width	12ft		22	0	
+lanes:width	3.0m		2	0	
+lanes:width	4|6		1	0	
+width:lanes	1||										6	0	
+width:lanes	4.5|4.5|4.5|2.5|1.5								1	0	
+
+width:lanes:start	0|			5	0	
+width:lanes:start	|||||2.0		1	0	
+width:lanes:end	0|			3	0	
+width:lanes:end	2 lane			1	0	
+width:lanes:end	2 lanes||		1	0	
+width:lanes:end	3.7|3.7|3.7|3.7|3.7	1	0	
+width:lanes:end	||||||0			2	0	
+width:lanes:forward	11			4	0	
+width:lanes:forward	22'			1	0	
+width:lanes:forward	|2.5			1	0	
+width:lanes:forward:end	1.8|||3.1	1	0	
+width:lanes:forward:end	|5.5		1	0	
+width:lanes:forward:start	5.3		1	0	
+width:lanes:forward:start	|||0		1	0	
+
+lanes:backward:width	1	2	0	
+width:lanes:backward	.25|2.5|.25	2	0	
+width:lanes:backward	|1.7		14	0	
+width:lanes:backward:end	0|	4	0	
+width:lanes:backward:end	0|0|	1	0	
+width:lanes:backward:end	2.8|2.8	1	0	
+width:lanes:backward:start	1|	2	0	
+width:lanes:backward:start	||2.5	1	0	
+width:lanes:both_ways	.25	3	0	
+width:lanes:both_ways	1|3|3|1	2	0	
+width:lanes:both_ways	9	5	0	
+width:lanes:both_ways:end	0	3	0	
+width:lanes:both_ways:end	3	1	0	
+width:lanes:both_ways:start	3	3	0	
+
+abandoned:width	0.5	2	0	
+abandoned:width	3	2	0	
+demolished:width	0.5	2	0	
+demolished:width	3 m	1	0	
+disused:width	0.2	1	0	
+disused:width	46	2	0	
+razed:width	1.2	1	0	
+razed:width	2.5	1	0	
+
+bridge:width	1	4	0	
+bridge:width	28.80	4	0	
+
+bridleway:width	1	2	0	
+
+bus_bay:right:width	1	1	0	
+bus_bay:right:width	1.5	1	0	
+
+cycleway:backward:lane:width	1.7	5	0	
+cycleway:both:paving_stones:width	11 cm	5	0	
+cycleway:both:width	0.5	1	0	
+cycleway:both:width	5'	11	0	
+cycleway:both:width	6 ft	1	0	
+cycleway:both:width	7'0""	1	0	
+
+cycleway:buffer:width	0.25;0	2	0	
+cycleway:buffer:width	0.6	2	0	
+
+cycleway:forward:lane:width	1.3	5	0	
+cycleway:forward:lane:width	1.7	1	0	
+
+width:bicycle:lane	1	1	0	
+cycleway:lane:width	0.9	11	0	
+cycleway:lane:width	3	1	0	
+
+cycleway:left:buffer:right:width	0.4	11	0
+cycleway:left:lane:width	1.5	8	0
+cycleway:left:shoulder:width	1		1	0	
+cycleway:left:shoulder:width	2		5	0	
+
+width:bicycle	1	3	0	
+width:bicycle	4	1	0	
+width:cycleway	0.8	1	0	
+width:cycleway	1.8	1	0	
+cycleway:width	0,65		1	0	
+cycleway:width	0.5		9	0	
+cycleway:width	0.95-1.20	1	0	
+cycleway:width	1		264	0	
+cycleway:width	1 m		2	0	
+cycleway:width	1.20-1.60	2	0	
+cycleway:width	1.43;2.00	5	0	
+cycleway:width	2,0		2	0	
+cycleway:width	237.5		3	0	
+cycleway:width	4 ft		3	0	
+cycleway:width	4'6""		5	0	
+cycleway:width	8'		9	0	
+
+cycleway:width:buffer:left	0.5	2	0	
+cycleway:width:buffer:right	0.5	1	0	
+
+cycleway:left:width	0.3	4	0	
+cycleway:left:width	0.8m	1	0	
+cycleway:left:width	1,70	1	0	
+cycleway:left:width	12'	1	0	
+cycleway:left:width	2,0	3	0	
+cycleway:left:width	3 m	5	0	
+cycleway:left:width	5 ft	6	0	
+cycleway:left:width	5'6""	5	0	
+cycleway:left:width	130	6	0	
+cycleway:right:width	0.5	34	0	
+cycleway:right:width	9'	8	0	
+
+cycleway:oneside:width	1.25	70	0	
+cycleway:oneside:width	1.75	29	0	
+cycleway:otherside:width	1.25	65	0	
+cycleway:otherside:width	1.75	33	0	
+
+cycleway:paving_stones:width	10.5 cm	4	0	
+cycleway:paving_stones:width	15 cm	2	0	
+
+cycleway:right:buffer:right:width	0.4		2	0	
+cycleway:right:buffer:width	0.6	1	0	
+cycleway:right:paving_stones:width	13.5 cm	1	0	
+cycleway:right:paving_stones:width	9 cm	1	0	
+cycleway:right:shoulder:width	2	2	0	
+
+cycleway:track:width	2	7	0	
+cycleway:track:width	3.00	2	0	
+
+cycleway:width:buffer:left	0.5	2	0	
+cycleway:width:buffer:right	0.5	1	0	
+
+disused:cycleway:width	2.6	1	0	
+
+width:foot	1.5	9	0	
+width:foot	2.2	1	0	
+width:footway	1.5	3	0	
+width:footway	2.8	2	0	
+foot:width	1.50	1	0	
+footway:width	0.5	4	0	
+footway:width	3.25	1	0	
+footway:left:width	0.4		1	0	
+footway:left:width	3,14;5,6	1	0	
+footway:left:width	110		2	0	
+footway:right:width	0.0		2	0	
+footway:right:width	2,2;3,34	3	0	
+footway:right:width	70		2	0	
+
+parking:lane:width	11'	3	0	
+parking:lane:width	8'	3	0	
+
+parking:lane:both:left:width	2	4	0	
+parking:lane:both:parallel:width	1.7	8	0	
+parking:lane:both:parallel:width	2.3	2	0	
+parking:lane:both:width	1.4	1	0	
+parking:lane:both:width	8'6""	3	0	
+
+parking:lane:left:parallel:width	1.8	4	0	
+parking:lane:left:parallel:width	2	4	0	
+
+parking:left:lane:width	2	3	0	
+parking:lane:left:width	0	9	0	
+parking:lane:left:width	8'	23	0	
+parking:lane:right:width	1.6	3	0	
+parking:lane:right:width	8'	34	0	
+
+parking_space:width	2,3	1	0	
+parking_space:width	2.5	1	0	
+parking_space:width	3.30	2	0	
+
+width:path	0.4	1	0	
+path:width	0.8	1	0	
+path:width	1,95m	2	0	
+path:width	2m	1	0	
+path:left:width	1.5	15	0	
+path:left:width	2	8	0	
+path:right:width	1.25	2	0	
+path:right:width	2.5	1	0	
+
+width:track	2	2	0	
+track:width	0.5	2	0	
+track:width	2	3	0	
+
+traffic_calming:width	2.5	1	0	
+traffic_calming:width	4	2	0	
+
+traffic_calming:width:end	0	1	0	
+traffic_calming:width:start	0	1	0	
+
+traffic_island:left:width	1.00	2	0	
+traffic_island:left:width	35.50	9	0	
+traffic_island:right:width	1.90	6	0	
+traffic_island:right:width	12.90	1	0	
+
+tunnel:width	1.8		1	0	
+tunnel:width	21.2-25.2	2	0	
+
+width:carriage	0	2	0	
+width:carriage	2.5	3	0	
+width:carriage	6	25	0	
+width:carriage	7 m	2	0	
+width:carriageway	1.8	1	0	
+width:carriageway	18	1	0	
+carriageway:width	4	15	0	
+carriageway:width	6	11	0	
+
+width:sidewalk	0.7	1	0	
+width:sidewalk	2 m	1	0	
+width:sidewalk	3	1	0	
+width:sidewalk:right	0.5	3	0	
+sidewalk:width	.5	1	0	
+sidewalk:width	6.7	34	0	
+sidewalk:width:effective	1	1	0	
+sidewalk:both:width	0.3	1	0	
+sidewalk:both:width	1 m	2	0	
+sidewalk:both:width	1,20	1	0	
+sidewalk:both:width	60cm	1	0	
+sidewalk:both:width	< 0.5m	1	0	
+sidewalk:both:paving_stones:width	0.24	5	0	
+sidewalk:left:width	.6		1	0	
+sidewalk:left:width	0.5 m		2	0	
+sidewalk:left:width	2;3.7		2	0	
+sidewalk:left:width	2m		1	0	
+sidewalk:left:width	3 ft		1	0	
+sidewalk:left:width	40cm		1	0	
+sidewalk:left:width	5		13	0	
+sidewalk:left:width	5 ft		1	0	
+sidewalk:left:width	90		1	0	
+sidewalk:left:width:effective	1.5	1	0	
+sidewalk:left:width:max	2.52	4	0	
+sidewalk:right:width	.8		1	0	
+sidewalk:right:width	< 1 m		2	0	
+sidewalk:right:paving_stones:width	0.15 m	2	0
+sidewalk:right:surface:paving:stones:width	0.24	5	0	
+sidewalk:right:width:max	2.92	4	0	
+
+verge:width	1.2	2	0	
+verge:width	12	1	0	
+verge:width:left	2	2	0	
+verge:width:right	4	2	0	
+verge:width:left	2	2	0	
+verge:width:right	4	2	0	
+
+wreck:width	11.18 m	1	0	
+wreck:width	50ft	1	0	
+wreck:width	6,9	1	0	
+wreck:width	9.6	1	0	
+
+piste:width	3	4	0	
+piste:width	4.5	1	0	
+
+pitch:width	125	2	0	
+pitch:width	15	1	0	
+
+ramp:width	0.6	1	0	
+roof:width	47.4	1	0	
+
+historic:width	20'	1	0	
+historic:width	3	1	0	
+
+island:width	1	2	0	
+island:width	3.5	5	0	
+
+kerb:width	0.25	3	0	
+kerb:width	0.80	1	0	
+
+wall:width	0.2	1	0	
+width:wall	0.025	2	0	
+width:water	0.5	1	0	
+
+augsburgbarrierefrei:width	1.0	1	0	
+augsburgbarrierefrei:width	1.4	1	0	
+
+width:marine	5.50	1	0	
+width:physical	2	1	0	
+width:physical	5.4	1	0	
+width:historic	2	3	0	
+
+width:street	2	6	0	
+width:street	70;50	31	0	
+width:street	100	40	0	
+
+width:subgrade	10	6	0	
+width:subgrade	12	8	0	
+
+width:summer	1	1	0	
+width:summer	2	1	0	
+
+width:asphalt	3.5	6	0	
+width:asphalt	9	1	0	
+width:surface:asphalt	2.5	4	0	
+width:surface:fine_gravel	1.5	1	0	
+width:surface:fine_gravel	1.7	3	0	
+
+width:paved	3.5	17	0	
+width:paved	6.5	2	0	
+
+pavement:width	0.1	15	0	
+pavement:width	7	1	0	
+
+paving_stones:width	0.1	17	0	
+paving_stones:width	0.15 m	4	0	
+paving_stones:width	0.8 m	1	0	
+paving_stones:width	10	13	0	
+paving_stones:width	10.5 cm	7	0	
+paving_stones:width	21 cm	4	0	
+paving_stones:width	75	2	0	

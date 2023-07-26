@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "sOffset": 1,
+        "tag": "t_road_lanes_laneSection_lr_lane_border",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

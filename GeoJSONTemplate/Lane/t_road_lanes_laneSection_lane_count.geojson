@@ -1,0 +1,131 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 3,
+                "operate_diff_lanes_at": "left"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 6,
+                "operate_diff_lanes_at": "right"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 7,
+                "operate_diff_lanes_at": "both_and_left_one"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 10,
+                "operate_diff_lanes_at": "both_and_right_one"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 7,
+                "operate_diff_lanes_at": "both_and_left_one"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 6,
+                "operate_diff_lanes_at": "right"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    144.7422305,
+                    -37.862678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+		"geojson_vesion": 0.1,
+		"tag": "t_road_lanes_laneSection",
+		"operation_command": "lane_count",
+		"operation_type": "update",
+                "lane_count": 3,
+                "operate_diff_lanes_at": "left"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

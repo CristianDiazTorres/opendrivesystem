@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "s": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline_cornerRoad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "t": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline_cornerRoad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dz": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline_cornerRoad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "height": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline_cornerRoad"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 9223372036854776000,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline_cornerRoad"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

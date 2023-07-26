@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "from": 0,
+        "tag": "t_junction_connection_laneLink",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

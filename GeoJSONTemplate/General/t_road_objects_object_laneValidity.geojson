@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fromLane": 0,
+                "update_st": "true",
+                "tag": "t_road_objects_object_laneValidity"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_objects_object_laneValidity",
+                "toLane": 0
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

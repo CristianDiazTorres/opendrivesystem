@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "s": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "length": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "distance": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "tStart": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "tEnd": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "heightStart": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "heightEnd": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat",
+                "zOffsetStart": 1
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat",
+                "zOffsetEnd": 1
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat",
+                "widthStart": 1
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat",
+                "widthEnd": 1
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "lengthStart": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "lengthEnd": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "radiusStart": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "radiusEnd": 1,
+                "update_st": "true",
+                "tag": "t_road_objects_object_repeat"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

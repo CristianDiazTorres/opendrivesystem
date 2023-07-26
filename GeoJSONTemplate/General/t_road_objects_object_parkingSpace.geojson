@@ -1,0 +1,140 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "all",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "car",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "women",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "handicapped",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "bus",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "truck",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "electric",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "access": "residents",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "restrictions": "",
+                "update_st": "true",
+                "tag": "t_road_objects_object_parkingSpace"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

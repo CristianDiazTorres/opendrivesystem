@@ -1,0 +1,16 @@
+{
+    "geometry": {
+        "coordinates": [
+            144.7499649,
+            -37.8683919
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "geojson_vesion": 0.1,
+        "operation_command": "move",
+        "operation_type": "update",
+        "tag": "t_road"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,110 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 0,
+                "update_st": "true",
+                "tag": "t_junction_connection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_junction_connection",
+                "type": "default"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_junction_connection",
+                "type": "virtual"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "incomingRoad": 9223372036854776000,
+                "update_st": "true",
+                "tag": "t_junction_connection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "connectingRoad": 9223372036854776000,
+                "update_st": "true",
+                "tag": "t_junction_connection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contactPoint": "start",
+                "update_st": "true",
+                "tag": "t_junction_connection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "contactPoint": "end",
+                "update_st": "true",
+                "tag": "t_junction_connection"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

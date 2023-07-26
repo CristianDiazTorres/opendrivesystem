@@ -1,0 +1,95 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementType": "road",
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementType": "junction",
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementId": 0,
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementS": 1,
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementDir": "+",
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "elementDir": "-",
+                "update_st": "true",
+                "tag": "t_junction_predecessorSuccessor"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

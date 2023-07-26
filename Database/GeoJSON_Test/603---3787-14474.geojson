@@ -1,0 +1,18 @@
+{
+    "geometry": {
+        "coordinates": [
+            144.7422305,
+            -37.862678
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "geojson_vesion": 0.1,
+        "lane_count": 6,
+        "operate_diff_lanes_at": "right",
+        "operation_command": "lane_count",
+        "operation_type": "update",
+        "tag": "t_road_lanes_laneSection"
+    },
+    "type": "Feature"
+}

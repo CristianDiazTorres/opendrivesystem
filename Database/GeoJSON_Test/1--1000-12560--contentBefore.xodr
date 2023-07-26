@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="6" name="1000-12560" version="1.0" date="2021-12-31T10:12:20Z" north="1.2361419182320128e+6" south="1.2347195121498422e+6" east="-1.1123862051564618e+6" west="-1.1109747160375284e+6">
+        <geoReference><![CDATA[+proj=lcc +lat_1=-18 +lat_2=-36 +lat_0=0 +lon_0=134 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs]]></geoReference>
+    </header>
+    <userData code="Cell">
+        <cell cellRow="1000" cellCol="12560" centerX="-1.1116804336969850e+6" centerY="1.2354307079810447e+6"/>
+    </userData>
+</OpenDRIVE>

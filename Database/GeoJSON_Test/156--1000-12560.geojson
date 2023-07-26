@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "space": 1,
+        "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_type_line",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

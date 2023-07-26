@@ -1,0 +1,4 @@
+id=25
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/Lane/t_road_lanes_laneSection_lr_lane_width_cond_lane_id.geojson
+tag=t_road_lanes_laneSection_lr_lane_width
+operation=insert

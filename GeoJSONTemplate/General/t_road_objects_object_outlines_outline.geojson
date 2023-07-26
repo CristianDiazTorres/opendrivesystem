@@ -1,0 +1,575 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 0,
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "grass",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "concrete",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "cobble",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "asphalt",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "pavement",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "gravel",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "fillType": "soil",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "outer": "true",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "closed": "true",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "shoulder",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "border",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "driving",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "stop",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "none",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "restricted",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "parking",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "median",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "biking",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "sidewalk",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "curb",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "exit",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "entry",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "onRamp",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "offRamp",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "connectingRamp",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "bidirectional",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "special1",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "special2",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "special3",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "roadWorks",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "tram",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "rail",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "bus",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "taxi",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "HOV",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "mwyEntry",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneType": "mwyExit",
+                "update_st": "true",
+                "tag": "t_road_objects_object_outlines_outline"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "purpose": "friction",
+        "tag": "t_junction_surface_CRG",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "ds": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_sway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "a": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_sway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "b": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_sway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "c": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_sway"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "d": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark_sway"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

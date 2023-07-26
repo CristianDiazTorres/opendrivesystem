@@ -1,0 +1,440 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "sOffset": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "none"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "solid"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "broken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "solid solid"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "solid broken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "broken solid"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "broken broken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "botts dots"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "grass"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "curb"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "custom"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "type": "edge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "weight": "standard"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "weight": "bold"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "standard",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "blue",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "green",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "red",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "white",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "yellow",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "color": "orange",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "material": "",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark",
+                "width": 1e+100
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneChange": "increase",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneChange": "decrease",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneChange": "both",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "laneChange": "none",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "height": 1e+100,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_roadMark"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

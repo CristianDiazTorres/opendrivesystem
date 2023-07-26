@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "side": "left",
+        "tag": "t_road_objects_object_markings_marking",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

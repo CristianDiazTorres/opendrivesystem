@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "sOffset": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_border"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "a": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_border"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "b": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_border"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "c": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_border"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "d": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_border"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

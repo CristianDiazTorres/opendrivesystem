@@ -1,0 +1,861 @@
+{
+    "controller_sequence": [
+        {
+            "control_sequence": [
+                {
+                    "signalId": "0"
+                }
+            ],
+            "id": "0",
+            "sequence": "0"
+        }
+    ],
+    "header": {
+        "east": "0.0000000000000000e+0",
+        "geoReference_sequence": [
+            {
+                "proj": "+proj=lcc +lat_1=-18 +lat_2=-36 +lat_0=0 +lon_0=134 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs"
+            }
+        ],
+        "north": "3.7145339301064217e-312",
+        "offset_sequence": [
+            {
+                "hdg": "0.0000000000000000e+0",
+                "x": "1.0000000000000000e+0",
+                "y": "2.0000000000000000e+0",
+                "z": "0.0000000000000000e+0"
+            }
+        ],
+        "revMajor": "1494872512",
+        "revMinor": "2075658260928",
+        "south": "1.3211545794549884e-309",
+        "west": "0.0000000000000000e+0"
+    },
+    "junctionGroup_sequence": [
+        {
+            "id": "0",
+            "junctionReference_sequence": [
+                {
+                    "junction": "0"
+                }
+            ],
+            "type": "roundabout"
+        }
+    ],
+    "junction_sequence": [
+        {
+            "connection_sequence": [
+                {
+                    "id": "0",
+                    "laneLink_sequence": [
+                        {
+                            "from": "0",
+                            "to": "0"
+                        }
+                    ],
+                    "predecessor_sequence": [
+                        {
+                            "elementDir": "+",
+                            "elementId": "0",
+                            "elementS": "0.0000000000000000e+0",
+                            "elementType": "road"
+                        }
+                    ],
+                    "successor_sequence": [
+                        {
+                            "elementDir": "+",
+                            "elementId": "0",
+                            "elementS": "0.0000000000000000e+0",
+                            "elementType": "road"
+                        }
+                    ],
+                    "type": "default"
+                }
+            ],
+            "controller_sequence": [
+                {
+                    "id": "0",
+                    "sequence": "0"
+                }
+            ],
+            "id": "0",
+            "priority_sequence": [
+                {
+                    "high": "0",
+                    "low": "0"
+                }
+            ],
+            "surface_sequence": [
+                {
+                    "CRG_sequence": [
+                        {
+                            "file": "",
+                            "mode": "attached",
+                            "zOffset": "0.0000000000000000e+0",
+                            "zScale": "0.0000000000000000e+0"
+                        }
+                    ]
+                }
+            ],
+            "type": "default"
+        }
+    ],
+    "road_sequence": [
+        {
+            "elevationProfile_sequence": [
+                {
+                    "elevation_sequence": [
+                        {
+                            "a": "0.0000000000000000e+0",
+                            "b": "0.0000000000000000e+0",
+                            "c": "0.0000000000000000e+0",
+                            "d": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0"
+                        }
+                    ]
+                }
+            ],
+            "id": "0",
+            "junction": "0",
+            "lanes": {
+                "laneOffset_sequence": [
+                    {
+                        "a": "0.0000000000000000e+0",
+                        "b": "0.0000000000000000e+0",
+                        "c": "0.0000000000000000e+0",
+                        "d": "0.0000000000000000e+0",
+                        "s": "0.0000000000000000e+0"
+                    }
+                ],
+                "laneSection_sequence": [
+                    {
+                        "center": {
+                            "lane_sequence": [
+                                {
+                                    "access_sequence": [
+                                        {
+                                            "restriction": "simulator",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "border_sequence": [
+                                        {
+                                            "a": "0.0000000000000000e+0",
+                                            "b": "0.0000000000000000e+0",
+                                            "c": "0.0000000000000000e+0",
+                                            "d": "0.0000000000000000e+0",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "height_sequence": [
+                                        {
+                                            "inner": "0.0000000000000000e+0",
+                                            "outer": "0.0000000000000000e+0",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "id": "0",
+                                    "link_sequence": [
+                                        {
+                                            "predecessor_sequence": [
+                                                {
+                                                    "id": "0"
+                                                }
+                                            ],
+                                            "successor_sequence": [
+                                                {
+                                                    "id": "0"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "material_sequence": [
+                                        {
+                                            "friction": "0.0000000000000000e+0",
+                                            "roughness": "0.0000000000000000e+0",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "roadMark_sequence": [
+                                        {
+                                            "color": "standard",
+                                            "explicit_sequence": [
+                                                {
+                                                    "line_sequence": [
+                                                        {
+                                                            "length": "",
+                                                            "sOffset": "0.0000000000000000e+0",
+                                                            "tOffset": "0.0000000000000000e+0"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "sOffset": "0.0000000000000000e+0",
+                                            "sway_sequence": [
+                                                {
+                                                    "a": "0.0000000000000000e+0",
+                                                    "b": "0.0000000000000000e+0",
+                                                    "c": "0.0000000000000000e+0",
+                                                    "d": "0.0000000000000000e+0",
+                                                    "ds": "0.0000000000000000e+0"
+                                                }
+                                            ],
+                                            "type": "none",
+                                            "type_sequence": [
+                                                {
+                                                    "line_sequence": [
+                                                        {
+                                                            "length": "",
+                                                            "sOffset": "0.0000000000000000e+0",
+                                                            "space": "0.0000000000000000e+0",
+                                                            "tOffset": "0.0000000000000000e+0"
+                                                        }
+                                                    ],
+                                                    "name": "",
+                                                    "width": "0.0000000000000000e+0"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "rule_sequence": [
+                                        {
+                                            "sOffset": "0.0000000000000000e+0",
+                                            "value": ""
+                                        }
+                                    ],
+                                    "speed_sequence": [
+                                        {
+                                            "max": "0.0000000000000000e+0",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "type": "none",
+                                    "width_sequence": [
+                                        {
+                                            "a": "0.0000000000000000e+0",
+                                            "b": "0.0000000000000000e+0",
+                                            "c": "0.0000000000000000e+0",
+                                            "d": "0.0000000000000000e+0",
+                                            "sOffset": "0.0000000000000000e+0"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        "left_sequence": [
+                            {
+                                "lane_sequence": [
+                                    {
+                                        "access_sequence": [
+                                            {
+                                                "restriction": "simulator",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "border_sequence": [
+                                            {
+                                                "a": "0.0000000000000000e+0",
+                                                "b": "0.0000000000000000e+0",
+                                                "c": "0.0000000000000000e+0",
+                                                "d": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "height_sequence": [
+                                            {
+                                                "inner": "0.0000000000000000e+0",
+                                                "outer": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "id": "-3617008641903833651",
+                                        "link_sequence": [
+                                            {
+                                                "predecessor_sequence": [
+                                                    {
+                                                        "id": "0"
+                                                    }
+                                                ],
+                                                "successor_sequence": [
+                                                    {
+                                                        "id": "0"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "material_sequence": [
+                                            {
+                                                "friction": "0.0000000000000000e+0",
+                                                "roughness": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "roadMark_sequence": [
+                                            {
+                                                "color": "standard",
+                                                "explicit_sequence": [
+                                                    {
+                                                        "line_sequence": [
+                                                            {
+                                                                "length": "",
+                                                                "sOffset": "0.0000000000000000e+0",
+                                                                "tOffset": "0.0000000000000000e+0"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "sOffset": "0.0000000000000000e+0",
+                                                "sway_sequence": [
+                                                    {
+                                                        "a": "0.0000000000000000e+0",
+                                                        "b": "0.0000000000000000e+0",
+                                                        "c": "0.0000000000000000e+0",
+                                                        "d": "0.0000000000000000e+0",
+                                                        "ds": "0.0000000000000000e+0"
+                                                    }
+                                                ],
+                                                "type": "none",
+                                                "type_sequence": [
+                                                    {
+                                                        "line_sequence": [
+                                                            {
+                                                                "length": "",
+                                                                "sOffset": "0.0000000000000000e+0",
+                                                                "space": "0.0000000000000000e+0",
+                                                                "tOffset": "0.0000000000000000e+0"
+                                                            }
+                                                        ],
+                                                        "name": "",
+                                                        "width": "0.0000000000000000e+0"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "rule_sequence": [
+                                            {
+                                                "sOffset": "0.0000000000000000e+0",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "speed_sequence": [
+                                            {
+                                                "max": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "type": "shoulder",
+                                        "width_sequence": [
+                                            {
+                                                "a": "0.0000000000000000e+0",
+                                                "b": "0.0000000000000000e+0",
+                                                "c": "0.0000000000000000e+0",
+                                                "d": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "right_sequence": [
+                            {
+                                "lane_sequence": [
+                                    {
+                                        "access_sequence": [
+                                            {
+                                                "restriction": "simulator",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "border_sequence": [
+                                            {
+                                                "a": "0.0000000000000000e+0",
+                                                "b": "0.0000000000000000e+0",
+                                                "c": "0.0000000000000000e+0",
+                                                "d": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "height_sequence": [
+                                            {
+                                                "inner": "0.0000000000000000e+0",
+                                                "outer": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "id": "-3617008641903833651",
+                                        "link_sequence": [
+                                            {
+                                                "predecessor_sequence": [
+                                                    {
+                                                        "id": "0"
+                                                    }
+                                                ],
+                                                "successor_sequence": [
+                                                    {
+                                                        "id": "0"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "material_sequence": [
+                                            {
+                                                "friction": "0.0000000000000000e+0",
+                                                "roughness": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "roadMark_sequence": [
+                                            {
+                                                "color": "standard",
+                                                "explicit_sequence": [
+                                                    {
+                                                        "line_sequence": [
+                                                            {
+                                                                "length": "",
+                                                                "sOffset": "0.0000000000000000e+0",
+                                                                "tOffset": "0.0000000000000000e+0"
+                                                            }
+                                                        ]
+                                                    }
+                                                ],
+                                                "sOffset": "0.0000000000000000e+0",
+                                                "sway_sequence": [
+                                                    {
+                                                        "a": "0.0000000000000000e+0",
+                                                        "b": "0.0000000000000000e+0",
+                                                        "c": "0.0000000000000000e+0",
+                                                        "d": "0.0000000000000000e+0",
+                                                        "ds": "0.0000000000000000e+0"
+                                                    }
+                                                ],
+                                                "type": "none",
+                                                "type_sequence": [
+                                                    {
+                                                        "line_sequence": [
+                                                            {
+                                                                "length": "",
+                                                                "sOffset": "0.0000000000000000e+0",
+                                                                "space": "0.0000000000000000e+0",
+                                                                "tOffset": "0.0000000000000000e+0"
+                                                            }
+                                                        ],
+                                                        "name": "",
+                                                        "width": "0.0000000000000000e+0"
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "rule_sequence": [
+                                            {
+                                                "sOffset": "0.0000000000000000e+0",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "speed_sequence": [
+                                            {
+                                                "max": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ],
+                                        "type": "shoulder",
+                                        "width_sequence": [
+                                            {
+                                                "a": "0.0000000000000000e+0",
+                                                "b": "0.0000000000000000e+0",
+                                                "c": "0.0000000000000000e+0",
+                                                "d": "0.0000000000000000e+0",
+                                                "sOffset": "0.0000000000000000e+0"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ],
+                        "s": "0.0000000000000000e+0"
+                    }
+                ]
+            },
+            "lateralProfile_sequence": [
+                {
+                    "shape_sequence": [
+                        {
+                            "a": "0.0000000000000000e+0",
+                            "b": "0.0000000000000000e+0",
+                            "c": "0.0000000000000000e+0",
+                            "d": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0",
+                            "t": "0.0000000000000000e+0"
+                        }
+                    ],
+                    "superelevation_sequence": [
+                        {
+                            "a": "0.0000000000000000e+0",
+                            "b": "0.0000000000000000e+0",
+                            "c": "0.0000000000000000e+0",
+                            "d": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0"
+                        }
+                    ]
+                }
+            ],
+            "length": "0.0000000000000000e+0",
+            "link_sequence": [
+                {
+                    "predecessor_sequence": [
+                        {
+                            "elementId": "0"
+                        }
+                    ],
+                    "successor_sequence": [
+                        {
+                            "elementId": "0"
+                        }
+                    ]
+                }
+            ],
+            "objects_sequence": [
+                {
+                    "bridge_sequence": [
+                        {
+                            "id": "0",
+                            "length": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0",
+                            "type": "concrete",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ]
+                        }
+                    ],
+                    "objectReference_sequence": [
+                        {
+                            "id": "0",
+                            "orientation": "+",
+                            "s": "0.0000000000000000e+0",
+                            "t": "0.0000000000000000e+0",
+                            "validLength": "0.0000000000000000e+0",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ],
+                            "zOffset": "0.0000000000000000e+0"
+                        }
+                    ],
+                    "object_sequence": [
+                        {
+                            "borders_sequence": [
+                                {
+                                    "border_sequence": [
+                                        {
+                                            "cornerReference_sequence": [
+                                                {
+                                                    "id": "0"
+                                                }
+                                            ],
+                                            "outlineId": "0",
+                                            "type": "concrete",
+                                            "width": "0.0000000000000000e+0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "dynamic": "yes",
+                            "hdg": "0.0000000000000000e+0",
+                            "height": "0.0000000000000000e+0",
+                            "id": "0",
+                            "length": "0.0000000000000000e+0",
+                            "markings_sequence": [
+                                {
+                                    "marking_sequence": [
+                                        {
+                                            "color": "standard",
+                                            "cornerReference_sequence": [
+                                                {
+                                                    "id": "0"
+                                                }
+                                            ],
+                                            "lineLength": "",
+                                            "side": "left",
+                                            "spaceLength": "0.0000000000000000e+0",
+                                            "startOffset": "0.0000000000000000e+0",
+                                            "stopOffset": "0.0000000000000000e+0",
+                                            "zOffset": "0.0000000000000000e+0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "material_sequence": [
+                                {
+                                    "friction": "0.0000000000000000e+0",
+                                    "roughness": "0.0000000000000000e+0"
+                                }
+                            ],
+                            "outline_sequence": [
+                                {
+                                    "cornerLocal_sequence": [
+                                        {
+                                            "height": "0.0000000000000000e+0",
+                                            "u": "0.0000000000000000e+0",
+                                            "v": "0.0000000000000000e+0",
+                                            "z": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "cornerRoad_sequence": [
+                                        {
+                                            "dz": "0.0000000000000000e+0",
+                                            "height": "0.0000000000000000e+0",
+                                            "s": "0.0000000000000000e+0",
+                                            "t": "0.0000000000000000e+0"
+                                        }
+                                    ],
+                                    "id": "0"
+                                }
+                            ],
+                            "outlines_sequence": [
+                                {
+                                    "outline_sequence": [
+                                        {
+                                            "cornerLocal_sequence": [
+                                                {
+                                                    "height": "0.0000000000000000e+0",
+                                                    "u": "0.0000000000000000e+0",
+                                                    "v": "0.0000000000000000e+0",
+                                                    "z": "0.0000000000000000e+0"
+                                                }
+                                            ],
+                                            "cornerRoad_sequence": [
+                                                {
+                                                    "dz": "0.0000000000000000e+0",
+                                                    "height": "0.0000000000000000e+0",
+                                                    "s": "0.0000000000000000e+0",
+                                                    "t": "0.0000000000000000e+0"
+                                                }
+                                            ],
+                                            "id": "0"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "parkingSpace_sequence": [
+                                {
+                                    "access": "all"
+                                }
+                            ],
+                            "pitch": "0.0000000000000000e+0",
+                            "radius": "0.0000000000000000e+0",
+                            "repeat_sequence": [
+                                {
+                                    "distance": "0.0000000000000000e+0",
+                                    "heightEnd": "0.0000000000000000e+0",
+                                    "heightStart": "0.0000000000000000e+0",
+                                    "length": "0.0000000000000000e+0",
+                                    "lengthEnd": "0.0000000000000000e+0",
+                                    "lengthStart": "0.0000000000000000e+0",
+                                    "radiusEnd": "0.0000000000000000e+0",
+                                    "radiusStart": "0.0000000000000000e+0",
+                                    "s": "0.0000000000000000e+0",
+                                    "tEnd": "0.0000000000000000e+0",
+                                    "tStart": "0.0000000000000000e+0",
+                                    "widthEnd": "0.0000000000000000e+0",
+                                    "widthStart": "0.0000000000000000e+0",
+                                    "zOffsetEnd": "0.0000000000000000e+0",
+                                    "zOffsetStart": "0.0000000000000000e+0"
+                                }
+                            ],
+                            "roll": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0",
+                            "t": "0.0000000000000000e+0",
+                            "validLength": "0.0000000000000000e+0",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ],
+                            "width": "0.0000000000000000e+0",
+                            "zOffset": "0.0000000000000000e+0"
+                        }
+                    ],
+                    "tunnel_sequence": [
+                        {
+                            "daylight": "0.0000000000000000e+0",
+                            "id": "0",
+                            "length": "0.0000000000000000e+0",
+                            "lighting": "0.0000000000000000e+0",
+                            "s": "0.0000000000000000e+0",
+                            "type": "standard",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "planView": {
+                "geometry_sequence": [
+                    {
+                        "hdg": "0.0000000000000000e+0",
+                        "length": "0.0000000000000000e+0",
+                        "s": "0.0000000000000000e+0",
+                        "x": "1.0000000000000000e+0",
+                        "y": "2.0000000000000000e+0"
+                    }
+                ]
+            },
+            "railroad_sequence": [
+                {
+                    "switch_sequence": [
+                        {
+                            "id": "0",
+                            "mainTrack": {
+                                "dir": "+",
+                                "id": "0",
+                                "s": "0.0000000000000000e+0"
+                            },
+                            "name": "",
+                            "partner_sequence": [
+                                {
+                                    "id": "0"
+                                }
+                            ],
+                            "position": "dynamic",
+                            "sideTrack": {
+                                "dir": "+",
+                                "id": "0",
+                                "s": "0.0000000000000000e+0"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "signals_sequence": [
+                {
+                    "signalReference_sequence": [
+                        {
+                            "id": "0",
+                            "orientation": "+",
+                            "s": "0.0000000000000000e+0",
+                            "t": "0.0000000000000000e+0",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ]
+                        }
+                    ],
+                    "signal_sequence": [
+                        {
+                            "dependency_sequence": [
+                                {
+                                    "id": "0"
+                                }
+                            ],
+                            "dynamic": "no",
+                            "id": "0",
+                            "orientation": "+",
+                            "positionInertial_sequence": [
+                                {
+                                    "hdg": "0.0000000000000000e+0",
+                                    "x": "1.0000000000000000e+0",
+                                    "y": "2.0000000000000000e+0",
+                                    "z": "0.0000000000000000e+0"
+                                }
+                            ],
+                            "positionRoad_sequence": [
+                                {
+                                    "hOffset": "0.0000000000000000e+0",
+                                    "roadId": "0",
+                                    "s": "0.0000000000000000e+0",
+                                    "t": "0.0000000000000000e+0",
+                                    "zOffset": "0.0000000000000000e+0"
+                                }
+                            ],
+                            "reference_sequence": [
+                                {
+                                    "elementId": "0",
+                                    "elementType": "object"
+                                }
+                            ],
+                            "s": "0.0000000000000000e+0",
+                            "subtype": "",
+                            "t": "0.0000000000000000e+0",
+                            "type": "",
+                            "validity_sequence": [
+                                {
+                                    "fromLane": "0",
+                                    "toLane": "0"
+                                }
+                            ],
+                            "zOffset": "0.0000000000000000e+0"
+                        }
+                    ]
+                }
+            ],
+            "surface_sequence": [
+                {
+                    "CRG_sequence": [
+                        {
+                            "file": "",
+                            "hOffset": "0.0000000000000000e+0",
+                            "mode": "attached",
+                            "orientation": "same",
+                            "sEnd": "0.0000000000000000e+0",
+                            "sOffset": "0.0000000000000000e+0",
+                            "sStart": "0.0000000000000000e+0",
+                            "tOffset": "0.0000000000000000e+0",
+                            "zOffset": "0.0000000000000000e+0",
+                            "zScale": "0.0000000000000000e+0"
+                        }
+                    ]
+                }
+            ],
+            "type_sequence": [
+                {
+                    "s": "0.0000000000000000e+0",
+                    "speed_sequence": [
+                        {
+                            "max": "no limit"
+                        }
+                    ],
+                    "type": "unknown"
+                }
+            ],
+            "userData_sequence": [
+                {
+                    "code": "CA:referenceId"
+                },
+                {
+                    "code": "CA:junctionType"
+                }
+            ]
+        }
+    ],
+    "station_sequence": [
+        {
+            "id": "0",
+            "name": "",
+            "platform_sequence": [
+                {
+                    "id": "0",
+                    "segment_sequence": [
+                        {
+                            "roadId": "0",
+                            "sEnd": "0.0000000000000000e+0",
+                            "sStart": "0.0000000000000000e+0",
+                            "side": "left"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "s": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "singleSide": "false",
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,4 @@
+id=29
+geoJSONStagingFilePath=C:/_/__/ODS/1/t_road_lanes_laneSection_lr_lane_width_cond_lane_id_2.geojson
+tag=t_road_lanes_laneSection_lr_lane_width
+operation=none

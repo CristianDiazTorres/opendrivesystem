@@ -1,0 +1,20 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 0,
+                "update_st": "true",
+                "tag": "t_road_objects_object_markings_marking_cornerReference"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

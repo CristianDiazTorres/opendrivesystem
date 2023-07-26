@@ -1,0 +1,4 @@
+id=206
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road_lanes_laneSection_lr_lane.geojson
+tag=t_road_lanes_laneSection_lr_lane
+operation=update

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWnd</class>
+ <widget class="QMainWindow" name="MainWnd">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>907</width>
+    <height>524</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>OpenDRIVE System</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>907</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuWindow">
+    <property name="title">
+     <string>Window</string>
+    </property>
+    <addaction name="actionMapWnd"/>
+   </widget>
+   <widget class="QMenu" name="menuSetting">
+    <property name="title">
+     <string>Setting</string>
+    </property>
+    <addaction name="actionPGDBSetting"/>
+    <addaction name="actionLocalFilesDatabasePath"/>
+   </widget>
+   <widget class="QMenu" name="menuView">
+    <property name="title">
+     <string>View</string>
+    </property>
+    <addaction name="actionGPSDataLayer"/>
+    <addaction name="actionTrajectoryLayer"/>
+    <addaction name="actionOSMWayLayer"/>
+    <addaction name="actionOpenDRIVERoadLayer"/>
+   </widget>
+   <widget class="QMenu" name="menuNavigate">
+    <property name="title">
+     <string>Navigate</string>
+    </property>
+    <addaction name="actionToLatLon"/>
+    <addaction name="actionToXY"/>
+   </widget>
+   <widget class="QMenu" name="menuCountryArea">
+    <property name="title">
+     <string>Country Area</string>
+    </property>
+    <widget class="QMenu" name="menuOSMCountryArea">
+     <property name="title">
+      <string>OSM</string>
+     </property>
+     <addaction name="actionUpdateOSMCountryArea"/>
+     <addaction name="actionClearOSMCountryAreaAndDependencies"/>
+     <addaction name="actionClearOSMCountryArea"/>
+     <addaction name="actionOSMCountryAreaSettings"/>
+    </widget>
+    <addaction name="menuOSMCountryArea"/>
+   </widget>
+   <widget class="QMenu" name="menuGPS">
+    <property name="title">
+     <string>GPS</string>
+    </property>
+    <addaction name="actionUpdateGPSFromFile"/>
+    <addaction name="actionClearGPSAndDependencies"/>
+    <addaction name="actionClearGPS"/>
+    <addaction name="actionGPSSettings"/>
+   </widget>
+   <widget class="QMenu" name="menuTrajectory">
+    <property name="title">
+     <string>Trajectory</string>
+    </property>
+    <addaction name="actionUpdateTrajectory"/>
+    <addaction name="actionClearTrajectoryAndDependencies"/>
+    <addaction name="actionClearTrajectory"/>
+    <addaction name="actionTrajectorySettings"/>
+   </widget>
+   <widget class="QMenu" name="menuWay">
+    <property name="title">
+     <string>Way</string>
+    </property>
+    <widget class="QMenu" name="menuOSMWay">
+     <property name="title">
+      <string>OSM</string>
+     </property>
+     <addaction name="actionUpdateOSMWay"/>
+     <addaction name="actionClearOSMWayAndDependencies"/>
+     <addaction name="actionClearOSMWay"/>
+     <addaction name="actionOSMWaySettings"/>
+    </widget>
+    <addaction name="menuOSMWay"/>
+   </widget>
+   <widget class="QMenu" name="menuNode">
+    <property name="title">
+     <string>Node</string>
+    </property>
+    <widget class="QMenu" name="menuOSMNode">
+     <property name="title">
+      <string>OSM</string>
+     </property>
+     <addaction name="actionUpdateOSMNode"/>
+     <addaction name="actionClearOSMNodeAndDependencies"/>
+     <addaction name="actionClearOSMNode"/>
+     <addaction name="actionOSMNodeSettings"/>
+    </widget>
+    <addaction name="menuOSMNode"/>
+   </widget>
+   <widget class="QMenu" name="menuXODR">
+    <property name="title">
+     <string>XODR</string>
+    </property>
+    <addaction name="actionUpdateXODRTablesUsingBasicTables"/>
+    <addaction name="actionUpdateXODRTablesDirectlyUsingGPSFile"/>
+    <addaction name="actionUpdateXODRFilesFromTable"/>
+    <addaction name="actionUpdateJSONFromTable"/>
+    <addaction name="actionClearXODR"/>
+    <addaction name="actionXODRSettings"/>
+   </widget>
+   <widget class="QMenu" name="menuCurvatureSlope">
+    <property name="title">
+     <string>Curvature &amp;&amp; Slope</string>
+    </property>
+    <addaction name="actionUpdateCurvatureSlope"/>
+   </widget>
+   <widget class="QMenu" name="menuGeoJSON_Staging">
+    <property name="title">
+     <string>GeoJSON</string>
+    </property>
+    <addaction name="actionUploadGeoJSONFiles"/>
+    <addaction name="actionUploadGeoJSONFolders"/>
+    <addaction name="actionClearGeoJSONStaging"/>
+    <addaction name="actionApplyGeoJSON"/>
+    <addaction name="actionClearGeoJSONApplying"/>
+    <addaction name="actionGenerateGeoJSONApplyingTestFiles"/>
+   </widget>
+   <addaction name="menuCountryArea"/>
+   <addaction name="menuGPS"/>
+   <addaction name="menuTrajectory"/>
+   <addaction name="menuWay"/>
+   <addaction name="menuNode"/>
+   <addaction name="menuXODR"/>
+   <addaction name="menuGeoJSON_Staging"/>
+   <addaction name="menuCurvatureSlope"/>
+   <addaction name="menuNavigate"/>
+   <addaction name="menuView"/>
+   <addaction name="menuWindow"/>
+   <addaction name="menuSetting"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionMapWnd">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Map Window</string>
+   </property>
+  </action>
+  <action name="actionUpdateXODRTablesUsingBasicTables">
+   <property name="text">
+    <string>Update table using basic tables</string>
+   </property>
+  </action>
+  <action name="actionLocalFilesDatabasePath">
+   <property name="text">
+    <string>Local Files Database Path</string>
+   </property>
+  </action>
+  <action name="actionGPSDataLayer">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>GPS Data Layer</string>
+   </property>
+  </action>
+  <action name="actionTrajectoryLayer">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Trajectory Layer</string>
+   </property>
+  </action>
+  <action name="actionOSMWayLayer">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>OSM Way Layer</string>
+   </property>
+  </action>
+  <action name="actionOpenDRIVERoadLayer">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="checked">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>OpenDRIVE Road Layer</string>
+   </property>
+  </action>
+  <action name="actionToLatLon">
+   <property name="text">
+    <string>To Lat Lon</string>
+   </property>
+  </action>
+  <action name="actionToXY">
+   <property name="text">
+    <string>To X Y</string>
+   </property>
+  </action>
+  <action name="actionPGDBSetting">
+   <property name="text">
+    <string>PostgreSQL Database Setting</string>
+   </property>
+  </action>
+  <action name="actionUpdateOSMCountryArea">
+   <property name="text">
+    <string>Update</string>
+   </property>
+  </action>
+  <action name="actionUpdateGPSFromFile">
+   <property name="text">
+    <string>Update from file</string>
+   </property>
+  </action>
+  <action name="actionUpdateCurvatureSlope">
+   <property name="text">
+    <string>Update from file</string>
+   </property>
+  </action>
+  <action name="actionUpdateTrajectory">
+   <property name="text">
+    <string>Update</string>
+   </property>
+  </action>
+  <action name="actionOSMSettings">
+   <property name="text">
+    <string>OSM Settings</string>
+   </property>
+  </action>
+  <action name="actionUpdateOSMNode">
+   <property name="text">
+    <string>Update</string>
+   </property>
+  </action>
+  <action name="actionClearOSMCountryAreaAndDependencies">
+   <property name="text">
+    <string>Clear this and dependencies</string>
+   </property>
+  </action>
+  <action name="actionClearOSMCountryArea">
+   <property name="text">
+    <string>Clear only this</string>
+   </property>
+  </action>
+  <action name="actionOSMCountryAreaSettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionClearGPSAndDependencies">
+   <property name="text">
+    <string>Clear this and dependencies</string>
+   </property>
+  </action>
+  <action name="actionClearGPS">
+   <property name="text">
+    <string>Clear only this</string>
+   </property>
+  </action>
+  <action name="actionGPSSettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionClearTrajectoryAndDependencies">
+   <property name="text">
+    <string>Clear this and dependencies</string>
+   </property>
+  </action>
+  <action name="actionClearTrajectory">
+   <property name="text">
+    <string>Clear only this</string>
+   </property>
+  </action>
+  <action name="actionTrajectorySettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionUpdateOSMWay">
+   <property name="text">
+    <string>Update</string>
+   </property>
+  </action>
+  <action name="actionClearOSMWayAndDependencies">
+   <property name="text">
+    <string>Clear this and dependencies</string>
+   </property>
+  </action>
+  <action name="actionClearOSMWay">
+   <property name="text">
+    <string>Clear only this</string>
+   </property>
+  </action>
+  <action name="actionOSMWaySettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionClearOSMNodeAndDependencies">
+   <property name="text">
+    <string>Clear this and dependencies</string>
+   </property>
+  </action>
+  <action name="actionClearOSMNode">
+   <property name="text">
+    <string>Clear only this</string>
+   </property>
+  </action>
+  <action name="actionOSMNodeSettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionClearXODR">
+   <property name="text">
+    <string>Clear</string>
+   </property>
+  </action>
+  <action name="actionXODRSettings">
+   <property name="text">
+    <string>Settings</string>
+   </property>
+  </action>
+  <action name="actionUpdateXODRTablesDirectlyUsingGPSFile">
+   <property name="text">
+    <string>Update table directly using gps file</string>
+   </property>
+  </action>
+  <action name="actionUpdateXODRFilesFromTable">
+   <property name="text">
+    <string>Update files from table</string>
+   </property>
+  </action>
+  <action name="actionUpdateJSONFromTable">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Update json from table</string>
+   </property>
+  </action>
+  <action name="actionUploadGeoJSONFiles">
+   <property name="text">
+    <string>Upload GeoJSON files</string>
+   </property>
+  </action>
+  <action name="actionClearGeoJSONStaging">
+   <property name="text">
+    <string>Clear GeoJSON Staging</string>
+   </property>
+  </action>
+  <action name="actionUploadGeoJSONFolders">
+   <property name="text">
+    <string>Upload GeoJSON folders</string>
+   </property>
+  </action>
+  <action name="actionApplyGeoJSON">
+   <property name="text">
+    <string>Apply GeoJSON</string>
+   </property>
+  </action>
+  <action name="actionClearGeoJSONApplying">
+   <property name="text">
+    <string>Clear GeoJSON Applying</string>
+   </property>
+  </action>
+  <action name="actionGenerateGeoJSONApplyingTestFiles">
+   <property name="text">
+    <string>Generate GeoJSON Applying Test Files</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

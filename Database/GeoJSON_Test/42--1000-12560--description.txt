@@ -1,0 +1,4 @@
+id=42
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_junction_connection_laneLink.geojson
+tag=t_junction_connection_laneLink
+operation=none

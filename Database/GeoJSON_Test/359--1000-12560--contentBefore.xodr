@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OpenDRIVE>
+    <header revMajor="1" revMinor="6" name="1000-12560" version="1.306" date="2021-12-31T10:12:20Z" north="1.2361419182320128e+6" south="1.2347195121498422e+6" east="-1.1123862051564618e+6" west="-1.1109747160375284e+6">
+        <geoReference><![CDATA[+proj=lcc +lat_1=-18 +lat_2=-36 +lat_0=0 +lon_0=134 +x_0=0 +y_0=0 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs]]></geoReference>
+    </header>
+    <road length="1.8832433149771932e+4" id="0" junction="0" rule="LHT">
+        <link>
+            <predecessor elementId="0" elementType="junction" contactPoint="end" elementDir="-"/>
+        </link>
+        <planView>
+            <geometry s="0.0000000000000000e+0" x="-1.1122969099581065e+6" y="1.2347195121498422e+6" hdg="8.5631636553825274e-1" length="1.8832433149771932e+4">
+                <line/>
+            </geometry>
+            <geometry s="1.8832433149771932e+4" x="-1.0999574355328369e+6" y="1.2489461740650192e+6" hdg="8.5631636553825274e-1" length="0.0000000000000000e+0">
+                <line/>
+            </geometry>
+        </planView>
+        <elevationProfile>
+            <elevation s="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+        </elevationProfile>
+        <lateralProfile>
+            <superelevation s="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+            <shape s="1.0000000000000000e+0" t="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+        </lateralProfile>
+        <lanes>
+            <laneOffset s="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+            <laneSection s="1.0000000000000000e+0">
+                <left>
+                    <lane id="2" type="mwyExit"/>
+                    <lane id="0" type="driving">
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                    </lane>
+                </left>
+                <center>
+                    <lane id="0" type="mwyExit">
+                        <link>
+                            <predecessor id="0"/>
+                        </link>
+                        <border sOffset="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+                        <width sOffset="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+                        <roadMark sOffset="1.0000000000000000e+0" type="edge" weight="bold" color="orange" laneChange="none">
+                            <sway ds="1.0000000000000000e+0" a="1.0000000000000000e+0" b="1.0000000000000000e+0" c="1.0000000000000000e+0" d="1.0000000000000000e+0"/>
+                            <type name="" width="1.0000000000000000e+0">
+                                <line length="" space="1.0000000000000000e+0" sOffset="1.0000000000000000e+0" tOffset="1.0000000000000000e+0" rule="none" color="orange"/>
+                            </type>
+                            <explicit>
+                                <line length="" sOffset="1.0000000000000000e+0" tOffset="1.0000000000000000e+0" rule="none"/>
+                            </explicit>
+                        </roadMark>
+                        <material sOffset="1.0000000000000000e+0" friction="1.0000000000000000e+0" roughness="1.0000000000000000e+0"/>
+                        <speed sOffset="1.0000000000000000e+0" max="1.0000000000000000e+0" unit="km/h"/>
+                        <access sOffset="1.0000000000000000e+0" rule="deny" restriction="trucks"/>
+                        <height sOffset="1.0000000000000000e+0" inner="1.0000000000000000e+0" outer="1.0000000000000000e+0"/>
+                        <rule sOffset="1.0000000000000000e+0" value=""/>
+                    </lane>
+                </center>
+                <right>
+                    <lane id="0" type="mwyExit">
+                        <width sOffset="0.0000000000000000e+0" a="3.5000000000000000e+0" b="0.0000000000000000e+0" c="0.0000000000000000e+0" d="0.0000000000000000e+0"/>
+                    </lane>
+                    <lane id="-2" type="border"/>
+                </right>
+            </laneSection>
+        </lanes>
+        <objects>
+            <object s="1.0000000000000000e+0" t="1.0000000000000000e+0" zOffset="1.0000000000000000e+0" type="roadMark" validLength="1.0000000000000000e+0" orientation="-" dynamic="yes" hdg="0.0000000000000000e+0" pitch="0.0000000000000000e+0" id="0" roll="0.0000000000000000e+0" height="0.0000000000000000e+0" length="0.0000000000000000e+0" width="0.0000000000000000e+0" radius="0.0000000000000000e+0"/>
+            <bridge s="1.0000000000000000e+0" length="1.0000000000000000e+0" id="0" type="wood"/>
+        </objects>
+        <userData code="CA:referenceId"/>
+        <userData code="CA:junctionType"/>
+    </road>
+    <userData code="Cell">
+        <cell cellRow="1000" cellCol="12560" centerX="-1.1116804336969850e+6" centerY="1.2354307079810447e+6"/>
+    </userData>
+</OpenDRIVE>

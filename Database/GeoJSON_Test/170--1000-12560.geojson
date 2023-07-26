@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "id": 0,
+        "tag": "t_road_lanes_laneSection_left_lane",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

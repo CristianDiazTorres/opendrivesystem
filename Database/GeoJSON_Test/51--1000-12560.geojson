@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "elementDir": "-",
+        "tag": "t_junction_predecessorSuccessor",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,20 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "id": 0,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lcr_lane_link_predecessorSuccessor"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

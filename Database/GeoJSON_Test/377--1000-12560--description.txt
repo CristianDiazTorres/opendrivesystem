@@ -1,0 +1,4 @@
+id=377
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road_objects_object_laneValidity.geojson
+tag=t_road_objects_object_laneValidity
+operation=update

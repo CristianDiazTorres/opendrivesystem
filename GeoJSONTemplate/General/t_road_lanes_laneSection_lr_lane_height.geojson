@@ -1,0 +1,50 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "sOffset": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_height"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "inner": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_height"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "outer": 1,
+                "update_st": "true",
+                "tag": "t_road_lanes_laneSection_lr_lane_height"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

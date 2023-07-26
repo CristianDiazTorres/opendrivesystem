@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "high": 0,
+        "tag": "t_junction_priority",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

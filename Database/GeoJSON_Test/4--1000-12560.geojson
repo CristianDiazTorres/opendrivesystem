@@ -1,0 +1,21 @@
+{
+    "geometry": {
+        "coordinates": [
+            [
+                125.6,
+                10
+            ],
+            [
+                125.7,
+                10.1
+            ]
+        ],
+        "type": "LineString"
+    },
+    "properties": {
+        "junction": 0,
+        "tag": "t_road",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

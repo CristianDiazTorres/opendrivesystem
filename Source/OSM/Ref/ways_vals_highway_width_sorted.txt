@@ -1,0 +1,2219 @@
+﻿abandoned:width	0.5	2	0										
+abandoned:width	1	4	0										
+abandoned:width	1.5	2	0										
+abandoned:width	2	3	0										
+abandoned:width	3	2	0										
+abandoned:width	15.2	1	0										
+augsburgbarrierefrei:width	1	1	0										
+augsburgbarrierefrei:width	1.4	1	0										
+bridge:width	1	4	0										
+bridge:width	2.3	1	0										
+bridge:width	2.5	1	0										
+bridge:width	2.8	2	0										
+bridge:width	2.9	2	0										
+bridge:width	3	2	0										
+bridge:width	3.3	1	0										
+bridge:width	3.5	2	0										
+bridge:width	4.36	1	0										
+bridge:width	6.4	1	0										
+bridge:width	6.6	1	0										
+bridge:width	7.4	1	0										
+bridge:width	7.5	7	0										
+bridge:width	7.5	3	0										
+bridge:width	8	4	0										
+bridge:width	8.5	3	0										
+bridge:width	8.5	2	0										
+bridge:width	8.85	1	0										
+bridge:width	8.9	1	0										
+bridge:width	9.2	7	0										
+bridge:width	9.35	1	0										
+bridge:width	9.9	1	0										
+bridge:width	10	1	0										
+bridge:width	10.1	1	0										
+bridge:width	10.4	1	0										
+bridge:width	10.5	3	0										
+bridge:width	10.6	1	0										
+bridge:width	10.8	4	0										
+bridge:width	11.5	3	0										
+bridge:width	11.8	1	0										
+bridge:width	12	5	0										
+bridge:width	12.5	2	0										
+bridge:width	12.7	1	0										
+bridge:width	13	1	0										
+bridge:width	13.5	5	0										
+bridge:width	14.8	3	0										
+bridge:width	16.3	2	0										
+bridge:width	16.8	4	0										
+bridge:width	17	1	0										
+bridge:width	17.74	1	0										
+bridge:width	18.3	1	0										
+bridge:width	25.7	1	0										
+bridge:width	25.8	1	0										
+bridge:width	28.8	4	0										
+bridleway:width	1	2	0										
+bus_bay:right:width	1	1	0										
+bus_bay:right:width	1.5	1	0										
+carriageway:width	4	15	0										
+carriageway:width	5	2	0										
+carriageway:width	6	11	0										
+cycleway:backward:lane:width	1.7	5	0										
+cycleway:both:paving_stones:width	11 cm	5	0										
+cycleway:both:width	0.5	1	0										
+cycleway:both:width	0.7	1	0										
+cycleway:both:width	0.8	3	0										
+cycleway:both:width	1	29	0										
+cycleway:both:width	1.2	1	0										
+cycleway:both:width	1.25	23	0										
+cycleway:both:width	1.5	20	0										
+cycleway:both:width	1.5	4	0										
+cycleway:both:width	1.85	8	0										
+cycleway:both:width	2	10	0										
+cycleway:both:width	2.7	1	0										
+cycleway:both:width	2.7	2	0										
+cycleway:both:width	2.9	3	0										
+cycleway:both:width	4 ft	8	0										
+cycleway:both:width	5'	11	0										
+cycleway:both:width	5'0""	2	0										
+cycleway:both:width	6'	15	0										
+cycleway:both:width	6 ft	1	0										
+cycleway:both:width	7'0""	1	0										
+cycleway:buffer:width	0.6	2	0										
+cycleway:buffer:width	0.25;0	2	0										
+cycleway:forward:lane:width	1.3	5	0										
+cycleway:forward:lane:width	1.7	1	0										
+cycleway:lane:width	0.9	11	0										
+cycleway:lane:width	1	3	0										
+cycleway:lane:width	1.1	32	0										
+cycleway:lane:width	1.3	2	0										
+cycleway:lane:width	1.4	6	0										
+cycleway:lane:width	1.5	9	0										
+cycleway:lane:width	1.52	60	0										
+cycleway:lane:width	1.7	16	0										
+cycleway:lane:width	2.13	2	0										
+cycleway:lane:width	3	1	0										
+cycleway:left:buffer:right:width	0.4	11	0										
+cycleway:left:lane:width	1.5	8	0										
+cycleway:left:shoulder:width	1		1										
+cycleway:left:shoulder:width	1.5		2										
+cycleway:left:shoulder:width	1.8		1										
+cycleway:left:shoulder:width	2		5										
+cycleway:left:width	0.3	4	0										
+cycleway:left:width	0.4	1	0										
+cycleway:left:width	0.5	23	0										
+cycleway:left:width	0.6	4	0										
+cycleway:left:width	0.65	1	0										
+cycleway:left:width	0.7	11	0										
+cycleway:left:width	0.7	2	0										
+cycleway:left:width	0.75	4	0										
+cycleway:left:width	0.8	10	0										
+cycleway:left:width	0.8	3	0										
+cycleway:left:width	0.9	1	0										
+cycleway:left:width	0.9	6	0										
+cycleway:left:width	0.95	3	0										
+cycleway:left:width	0.97	1	0										
+cycleway:left:width	1	178	0										
+cycleway:left:width	1.1	1	0										
+cycleway:left:width	1.15	2	0										
+cycleway:left:width	1.2	45	0										
+cycleway:left:width	1.25	779	0										
+cycleway:left:width	1.28	1	0										
+cycleway:left:width	1.3	11	0										
+cycleway:left:width	1.4	4	0										
+cycleway:left:width	1.44	1	0										
+cycleway:left:width	1.453	1	0										
+cycleway:left:width	1.5	178	0										
+cycleway:left:width	1.5	21	0										
+cycleway:left:width	1.52	2	0										
+cycleway:left:width	1.58	1	0										
+cycleway:left:width	1.6	6	0										
+cycleway:left:width	1.7	4	0										
+cycleway:left:width	1.75	307	0										
+cycleway:left:width	1.8	22	0										
+cycleway:left:width	1.8	3	0										
+cycleway:left:width	1.9	8	0										
+cycleway:left:width	2	94	0										
+cycleway:left:width	2	22	0										
+cycleway:left:width	2.1	4	0										
+cycleway:left:width	2.15	1	0										
+cycleway:left:width	2.2	5	0										
+cycleway:left:width	2.3	6	0										
+cycleway:left:width	2.3	3	0										
+cycleway:left:width	2.5	63	0										
+cycleway:left:width	2.5	2	0										
+cycleway:left:width	3	13	0										
+cycleway:left:width	3	1	0										
+cycleway:left:width	4.1	8	0										
+cycleway:left:width	130	6	0										
+cycleway:left:width	0.8m	1	0										
+cycleway:left:width	1,5	3	0										
+cycleway:left:width	1,70	1	0										
+cycleway:left:width	1.2m	1	0										
+cycleway:left:width	1.5 m	1	0										
+cycleway:left:width	12'	1	0										
+cycleway:left:width	2,0	3	0										
+cycleway:left:width	2,5	4	0										
+cycleway:left:width	2.3m	2	0										
+cycleway:left:width	3 m	5	0										
+cycleway:left:width	3,0	1	0										
+cycleway:left:width	3'6""	15	0										
+cycleway:left:width	4'	2	0										
+cycleway:left:width	4 ft	18	0										
+cycleway:left:width	4'6""	2	0										
+cycleway:left:width	5'	17	0										
+cycleway:left:width	5 ft	6	0										
+cycleway:left:width	5'0""	1	0										
+cycleway:left:width	5'6""	5	0										
+cycleway:left:width	6'	20	0										
+cycleway:left:width	8'	9	0										
+cycleway:left:width	9'	7	0										
+cycleway:left:width	lane	1	0										
+cycleway:left:width	width	1	0										
+cycleway:oneside:width	1.25	70	0										
+cycleway:oneside:width	1.5	8	0										
+cycleway:oneside:width	1.75	29	0										
+cycleway:otherside:width	1.25	65	0										
+cycleway:otherside:width	1.75	33	0										
+cycleway:paving_stones:width	10.5 cm	4	0										
+cycleway:paving_stones:width	11 cm	3	0										
+cycleway:paving_stones:width	15 cm	2	0										
+cycleway:right:buffer:right:width	0.4		2										
+cycleway:right:buffer:right:width	0.6		1										
+cycleway:right:buffer:right:width	de:239,1022-10	1	0										
+cycleway:right:buffer:width	0.6	1	0										
+cycleway:right:paving_stones:width	13.5 cm	1	0										
+cycleway:right:paving_stones:width	15 cm	6	0										
+cycleway:right:paving_stones:width	9 cm	1	0										
+cycleway:right:shoulder:width	2	2	0										
+cycleway:right:width	0.5	34	0										
+cycleway:right:width	0.6	2	0										
+cycleway:right:width	0.7	26	0										
+cycleway:right:width	0.75	2	0										
+cycleway:right:width	0.79	1	0										
+cycleway:right:width	0.8	30	0										
+cycleway:right:width	0.83	3	0										
+cycleway:right:width	0.87	1	0										
+cycleway:right:width	0.9	5	0										
+cycleway:right:width	0.9	1	0										
+cycleway:right:width	0.93	1	0										
+cycleway:right:width	0.95	6	0										
+cycleway:right:width	0.98	1	0										
+cycleway:right:width	1	388	0										
+cycleway:right:width	1	23	0										
+cycleway:right:width	1	2	0										
+cycleway:right:width	1.04	1	0										
+cycleway:right:width	1.1	29	0										
+cycleway:right:width	1.15	11	0										
+cycleway:right:width	1.19	2	0										
+cycleway:right:width	1.2	59	0										
+cycleway:right:width	1.2	13	0										
+cycleway:right:width	1.23	1	0										
+cycleway:right:width	1.25	645	0										
+cycleway:right:width	1.28	1	0										
+cycleway:right:width	1.3	11	0										
+cycleway:right:width	1.3	2	0										
+cycleway:right:width	1.31	2	0										
+cycleway:right:width	1.35	5	0										
+cycleway:right:width	1.38	1	0										
+cycleway:right:width	1.4	12	0										
+cycleway:right:width	1.4	24	0										
+cycleway:right:width	1.42	1	0										
+cycleway:right:width	1.45	2	0										
+cycleway:right:width	1.5	396	0										
+cycleway:right:width	1.5	79	0										
+cycleway:right:width	1.55	4	0										
+cycleway:right:width	1.6	55	0										
+cycleway:right:width	1.6	8	0										
+cycleway:right:width	1.625	2	0										
+cycleway:right:width	1.7	35	0										
+cycleway:right:width	1.7	1	0										
+cycleway:right:width	1.75	282	0										
+cycleway:right:width	1.8	50	0										
+cycleway:right:width	1.8	21	0										
+cycleway:right:width	1.85	6	0										
+cycleway:right:width	1.9	14	0										
+cycleway:right:width	2	270	0										
+cycleway:right:width	2	12	0										
+cycleway:right:width	2	14	0										
+cycleway:right:width	2.1	17	0										
+cycleway:right:width	2.1	9	0										
+cycleway:right:width	2.15	1	0										
+cycleway:right:width	2.2	11	0										
+cycleway:right:width	2.2	1	0										
+cycleway:right:width	2.25	1	0										
+cycleway:right:width	2.3	2	0										
+cycleway:right:width	2.4	8	0										
+cycleway:right:width	2.5	128	0										
+cycleway:right:width	2.5	17	0	0									
+cycleway:right:width	2.6	14	0	0									
+cycleway:right:width	2.65	6	0										
+cycleway:right:width	2.7	18	0	0									
+cycleway:right:width	2.7	1	0	0									
+cycleway:right:width	2.75	3	0	0									
+cycleway:right:width	2.8	3	0	0									
+cycleway:right:width	2.9	15	0	0									
+cycleway:right:width	2.9	11	0										
+cycleway:right:width	3	40	0	0									
+cycleway:right:width	3	2	0	0									
+cycleway:right:width	3	5	0										
+cycleway:right:width	3.1	4	0	0									
+cycleway:right:width	3.1	3	0	0									
+cycleway:right:width	3.2	1	0	0									
+cycleway:right:width	3.25	6	0	0									
+cycleway:right:width	3.3	3	0	0									
+cycleway:right:width	3.5	4	0										
+cycleway:right:width	3.9	3	0										
+cycleway:right:width	4	19	0										
+cycleway:right:width	4.5	1	0										
+cycleway:right:width	5	6	0										
+cycleway:right:width	9	1	0										
+cycleway:right:width	1,20	2	0										
+cycleway:right:width	1,4	1	0										
+cycleway:right:width	1,5	3	0										
+cycleway:right:width	1.5 m	1	0										
+cycleway:right:width	10'	8	0										
+cycleway:right:width	11'	5	0										
+cycleway:right:width	12'	7	0										
+cycleway:right:width	2'	1	0										
+cycleway:right:width	2,0	3	0										
+cycleway:right:width	2,5	4	0										
+cycleway:right:width	2,70	1	0										
+cycleway:right:width	2,8	2	0										
+cycleway:right:width	3'	1	0										
+cycleway:right:width	3,0	1	0										
+cycleway:right:width	3,00	2	0										
+cycleway:right:width	3'6""	12	0										
+cycleway:right:width	4'	26	0										
+cycleway:right:width	4 ft	36	0										
+cycleway:right:width	4'6""	12	0							1	0		
+cycleway:right:width	5'	73	0							1	0		
+cycleway:right:width	5 ft	21	0										
+cycleway:right:width	5'0""	2	0										
+cycleway:right:width	5'6""	4	0										
+cycleway:right:width	6'	32	0										
+cycleway:right:width	6'6""	2	0										
+cycleway:right:width	7'	22	0										
+cycleway:right:width	7 ft	8	0										
+cycleway:right:width	7.5 ft	2	0										
+cycleway:right:width	8'	44	0										
+cycleway:right:width	9'	8	0										
+cycleway:track:width	2	7	0										
+cycleway:track:width	2.5	3	0										
+cycleway:track:width	3	2	0										
+cycleway:width	0.5		9										
+cycleway:width	0.6		18										
+cycleway:width	0.6		10										
+cycleway:width	0.67		1										
+cycleway:width	0.7		3										
+cycleway:width	0.7		1										
+cycleway:width	0.75		12										
+cycleway:width	0.8		21										
+cycleway:width	0.8		1										
+cycleway:width	0.9		8										
+cycleway:width	0.9		3										
+cycleway:width	0.95		1										
+cycleway:width	1		264										
+cycleway:width	1		36										
+cycleway:width	1		92										
+cycleway:width	1.1		5										
+cycleway:width	1.15		2										
+cycleway:width	1.2		34										
+cycleway:width	1.2		79										
+cycleway:width	1.22		5										
+cycleway:width	1.25		140										
+cycleway:width	1.28		1										
+cycleway:width	1.3		11										
+cycleway:width	1.3		14										
+cycleway:width	1.32		1										
+cycleway:width	1.35		5										
+cycleway:width	1.37		8										
+cycleway:width	1.38		1										
+cycleway:width	1.4		32										
+cycleway:width	1.4		31										
+cycleway:width	1.43		26										
+cycleway:width	1.45		3										
+cycleway:width	1.5		218										
+cycleway:width	1.5		182										
+cycleway:width	1.54		16										
+cycleway:width	1.55		7										
+cycleway:width	1.6		70										
+cycleway:width	1.6		24										
+cycleway:width	1.625		21										
+cycleway:width	1.65		3										
+cycleway:width	1.7		24										
+cycleway:width	1.7		7										
+cycleway:width	1.75		42										
+cycleway:width	1.76		30										
+cycleway:width	1.77		4										
+cycleway:width	1.8		16										
+cycleway:width	1.8		71										
+cycleway:width	1.84		1										
+cycleway:width	1.85		4										
+cycleway:width	1.87		2										
+cycleway:width	1.88		7										
+cycleway:width	1.9		44										
+cycleway:width	1.9		19							2	0		
+cycleway:width	2		136							1	0		
+cycleway:width	2		54								6	0	
+cycleway:width	2		42							3	0		
+cycleway:width	2.02		3								2	0	
+cycleway:width	2.08		1								20	0	
+cycleway:width	2.1		7							4	0		
+cycleway:width	2.1		2							1	0		
+cycleway:width	2.15		3								1	0	
+cycleway:width	2.2		19							4	0		
+cycleway:width	2.2		11							2	0		
+cycleway:width	2.25		9								1	0	
+cycleway:width	2.3		2							1	0		
+cycleway:width	2.3		1								32	0	
+cycleway:width	2.33		1							3	0		
+cycleway:width	2.4		15						1	0			
+cycleway:width	2.4		9								4	0	
+cycleway:width	2.47		4								3	0	
+cycleway:width	2.5		122								1	0	
+cycleway:width	2.5		1								9	0	
+cycleway:width	2.6		14										
+cycleway:width	2.6		4										
+cycleway:width	2.7		6	0									
+cycleway:width	2.7		8	0									
+cycleway:width	2.75		4										
+cycleway:width	2.88		2										
+cycleway:width	2.9		1										
+cycleway:width	2.93		7										
+cycleway:width	2.95		3	0									
+cycleway:width	3		84	0									
+cycleway:width	3		2	0									
+cycleway:width	3		12	0									
+cycleway:width	3.03		5										
+cycleway:width	3.1		8	0									
+cycleway:width	3.1		5										
+cycleway:width	3.2		4	0									
+cycleway:width	3.2		8	0									
+cycleway:width	3.3		2	0									
+cycleway:width	3.4		3	0									
+cycleway:width	3.4		4	0									
+cycleway:width	3.5		6	0									
+cycleway:width	3.5		1										
+cycleway:width	3.6		2										
+cycleway:width	3.6		1										
+cycleway:width	3.9		3										
+cycleway:width	4		12										
+cycleway:width	6		9										
+cycleway:width	125		1										
+cycleway:width	237.5		3										
+cycleway:width	0,65		1										
+cycleway:width	0,70		2										
+cycleway:width	0,83		1										
+cycleway:width	0,90		1										
+cycleway:width	0,96		1										
+cycleway:width	0.75 m		5										
+cycleway:width	0.95-1.20	1	0										
+cycleway:width	1 m		2										
+cycleway:width	1,20		3										
+cycleway:width	1,24		1										
+cycleway:width	1,5		5										
+cycleway:width	1.20-1.60	2	0										
+cycleway:width	1.43;2.00	5	0										
+cycleway:width	1.5 m		13										
+cycleway:width	10 ft		1										
+cycleway:width	2,0		2										
+cycleway:width	2,30		1										
+cycleway:width	2,50		1										
+cycleway:width	2.6 m		2										
+cycleway:width	3'6""		1										
+cycleway:width	4'		3										
+cycleway:width	4 ft		3										
+cycleway:width	4'6""		5										
+cycleway:width	5'		8										
+cycleway:width	7'		4										
+cycleway:width	8'		9										
+cycleway:width	wide		4										
+cycleway:width:buffer:left	0.5	2	0										
+cycleway:width:buffer:right	0.5	1	0										
+demolished:width	0.5	2	0										
+demolished:width	1	2	0										
+demolished:width	1.5	1	0										
+demolished:width	3 m	1	0										
+disused:cycleway:width	2.6	1	0										
+disused:width	0.2	1	0										
+disused:width	0.3	2	0										
+disused:width	0.5	8	0										
+disused:width	1	2	0										
+disused:width	1.5	3	0										
+disused:width	1.8	1	0										
+disused:width	2	5	0										
+disused:width	2.5	1	0										
+disused:width	11.5	2	0										
+disused:width	45	1	0										
+disused:width	46	2	0										
+entrance:width	0.7	1	0										
+entrance:width	0.78	1	0										
+entrance:width	0.8	1	0										
+entrance:width	0.85	1	0										
+entrance:width	0.86	1	0										
+entrance:width	0.9	13	0										
+entrance:width	0.91	1	0										
+entrance:width	0.93	1	0										
+entrance:width	0.94	1	0										
+entrance:width	1	4	0	3	0								
+entrance:width	1.1	5	0	2	0								
+entrance:width	1.15	1	0	0									
+entrance:width	1.2	2	0	1	0								
+entrance:width	1.36	1	0	0									
+entrance:width	1.38	1	0	1	0								
+entrance:width	1.4	3	0	1	0								
+entrance:width	1.5	5	0	2	0								
+entrance:width	1.54	1	0	1	0								
+entrance:width	1.7	5	0	0									
+entrance:width	1.8	1	0										
+entrance:width	2	1	0	0									
+entrance:width	3	1	0	0									
+entrance:width	5	1	0	0									
+entrance:width	50	1	0	0									
+entrance:width	<0.9	1	0	0									
+entrance:width	>0.9	1	0	0									
+foot:width	1.5	1	0										
+footway:left:width	0.4		1	4	0								
+footway:left:width	0.5		3	1	0								
+footway:left:width	0.6		3	1	0								
+footway:left:width	0.7		2	0									
+footway:left:width	0.8		8	1	0								
+footway:left:width	0.9		1	6	0								
+footway:left:width	1		13	1	0								
+footway:left:width	1		7	1	0								
+footway:left:width	1		1	11	0								
+footway:left:width	1.1		7	1	0								
+footway:left:width	1.2		6	0									
+footway:left:width	1.2		3	8	0								
+footway:left:width	1.3		1	1	0								
+footway:left:width	1.4		9	1	0								
+footway:left:width	1.5		10	0									
+footway:left:width	1.5		2	2	0								
+footway:left:width	1.53		3										
+footway:left:width	1.59		1	1	0								
+footway:left:width	1.6		5	4	0								
+footway:left:width	1.7		4	1	0								
+footway:left:width	1.8		1	0									
+footway:left:width	1.9		2	0									
+footway:left:width	2		10	1	0								
+footway:left:width	2		1	0									
+footway:left:width	2.2		2	1	0								
+footway:left:width	2.4		1	3	0								
+footway:left:width	2.5		4	0									
+footway:left:width	2.91		2	2	0								
+footway:left:width	3		10	1	0								
+footway:left:width	3.2		1	2	0								
+footway:left:width	3.35		1	9	0								
+footway:left:width	3.4		1	5	0								
+footway:left:width	5		1	0									
+footway:left:width	100		1	12	0								
+footway:left:width	110		2	2	0								
+footway:left:width	3,14;5,6	1	0	1	0								
+footway:right:width	0		2	1	0								
+footway:right:width	0.4		3										
+footway:right:width	0.5		4										
+footway:right:width	0.6		3										
+footway:right:width	0.7		1	0									
+footway:right:width	0.75		1	0									
+footway:right:width	0.8		5										
+footway:right:width	0.8		2	0									
+footway:right:width	0.9		1	0									
+footway:right:width	1		9	0									
+footway:right:width	1		7	0									
+footway:right:width	1.2		8	0									
+footway:right:width	1.2		1										
+footway:right:width	1.3		1	0									
+footway:right:width	1.4		8	0									
+footway:right:width	1.5		15										
+footway:right:width	1.5		2	0									
+footway:right:width	1.6		8	0									
+footway:right:width	1.65		2	0									
+footway:right:width	1.7		7	0									
+footway:right:width	1.74		1	0									
+footway:right:width	1.75		1	0									
+footway:right:width	1.8		9	0									
+footway:right:width	1.9		4	0									
+footway:right:width	2		9	0									
+footway:right:width	2		2	0									
+footway:right:width	2.14		2	0									
+footway:right:width	2.2		2										
+footway:right:width	2.3		1	5	0								
+footway:right:width	2.4		1	1	0								
+footway:right:width	2.5		5	1	0								
+footway:right:width	2.55		1	1	0								
+footway:right:width	2.8		7	0									
+footway:right:width	3		3	0									
+footway:right:width	3.1		3	0									
+footway:right:width	3.3		1	0									
+footway:right:width	3.5		1	1	0								
+footway:right:width	3.7		1	8	0								
+footway:right:width	4		3	1	0								
+footway:right:width	4.95		1	9	0								
+footway:right:width	70		2	5	0								
+footway:right:width	2,2;3,34	3	0	1	0								
+footway:right:width	2;3.5		1	1	0								
+footway:right:width	3,14;5,6	2	0	2	0								
+footway:width	0.5	4	0	1	0								
+footway:width	0.75	1	0	0									
+footway:width	1	2	0	0									
+footway:width	1.1	1	0	1	0								
+footway:width	1.2	6	0	2	0								
+footway:width	1.2	4	0	1	0								
+footway:width	1.25	2	0	0									
+footway:width	1.3	2	0	0									
+footway:width	1.4	5	0	0									
+footway:width	1.5	38	0	0									
+footway:width	1.5	1	0										
+footway:width	1.6	8	0	0									
+footway:width	1.62	1	0	1	0								
+footway:width	1.7	9	0	1	0								
+footway:width	1.7	1	0	4	0								
+footway:width	1.72	3	0	1	0								
+footway:width	1.75	1	0	1	0								
+footway:width	1.8	14	0	1	0								
+footway:width	1.81	2	0	6	0								
+footway:width	1.83	1	0	4	0								
+footway:width	1.9	16	0	3	0								
+footway:width	2	24	0	1	0								
+footway:width	2	1	0	1	0								
+footway:width	2.1	3	0	1	0								
+footway:width	2.2	5	0	3	0								
+footway:width	2.25	3	0	1	0								
+footway:width	2.3	2	0	1	0								
+footway:width	2.36	1	0	0									
+footway:width	2.4	6	0										
+footway:width	2.5	15	0										
+footway:width	2.6	1	0										
+footway:width	2.7	3	0										
+footway:width	2.8	1	0										
+footway:width	2.83	1	0										
+footway:width	2.9	1	0										
+footway:width	3	15	0										
+footway:width	3.17	1	0										
+footway:width	3.25	1	0										
+historic:width	3	1	0										
+historic:width	20'	1	0										
+island:width	1	2	0										
+island:width	2.5	1	0	0									
+island:width	3.5	5	0	0									
+kerb:width	0.25	3	0										
+kerb:width	0.4	10	0	1	0								
+kerb:width	0.8	1	0	0									
+lane:width	2	5	0										
+lane:width	3	2	0										
+lane:width	4	1	0	1	0								
+lane:width	6.5	5	0										
+lane:width	7	2	0										
+lane:width	7 ft	1	0										
+lanes:backward:width	1	2	0										
+lanes:width	1		4										
+lanes:width	2.9		6										
+lanes:width	12ft		22										
+lanes:width	2.9|2.9		10										
+lanes:width	3.0 m		2										
+lanes:width	3.0m		2										
+lanes:width	3.5|1.5|3	1	0										
+lanes:width	3|1		3										
+lanes:width	3|1|3|1		1										
+lanes:width	3|2		1										
+lanes:width	3|3|3|3		2										
+lanes:width	4|6		1										
+parking:lane:both:left:width	2	4	0										
+parking:lane:both:parallel:width	1.7	8	0										
+parking:lane:both:parallel:width	1.8	6	0										
+parking:lane:both:parallel:width	2	3	0										
+parking:lane:both:parallel:width	2.3	2	0	3	0								
+parking:lane:both:width	1.4	1	0	36	0								
+parking:lane:both:width	1.6	6	0	17	0								
+parking:lane:both:width	1.8	52	0										
+parking:lane:both:width	2	17	0	2	0								
+parking:lane:both:width	2	48	0	2	0								
+parking:lane:both:width	2.2	1	0	13	0								
+parking:lane:both:width	2.2	7	0	4	0								
+parking:lane:both:width	2.6	8	0	1	0								
+parking:lane:both:width	3	1	0	140	0								
+parking:lane:both:width	3.4	1	0	1	0								
+parking:lane:both:width	4	1	0	6	0								
+parking:lane:both:width	4.5	6	0	12	0								
+parking:lane:both:width	5	2	0	29	0								
+parking:lane:both:width	5.5	2	0	1	0								
+parking:lane:both:width	13'	5	0	1	0								
+parking:lane:both:width	7'6""	9	0	10	0								
+parking:lane:both:width	8'	3	0	2	0								
+parking:lane:both:width	8'6""	3	0	13	0								
+parking:lane:left:parallel:width	1.8	4	0										
+parking:lane:left:parallel:width	2	4	0										
+parking:lane:left:width	0	9	0										
+parking:lane:left:width	1.7	1	0										
+parking:lane:left:width	1.8	10	0										
+parking:lane:left:width	2	13	0										
+parking:lane:left:width	2	50	0										
+parking:lane:left:width	2.2	40	0										
+parking:lane:left:width	2.4	4	0										
+parking:lane:left:width	2.5	3	0										
+parking:lane:left:width	2.6	3	0										
+parking:lane:left:width	3	1	0										
+parking:lane:left:width	3.7	1	0										
+parking:lane:left:width	4	9	0										
+parking:lane:left:width	4.5	5	0										
+parking:lane:left:width	5	9	0										
+parking:lane:left:width	5.5	5	0										
+parking:lane:left:width	12'	1	0										
+parking:lane:left:width	13'	3	0										
+parking:lane:left:width	14'	1	0										
+parking:lane:left:width	7'6""	4	0										
+parking:lane:left:width	8'	23	0										
+parking:lane:right:width	1.6	3	0										
+parking:lane:right:width	1.8	6	0										
+parking:lane:right:width	1.8	1	0										
+parking:lane:right:width	2	3	0										
+parking:lane:right:width	2	67	0										
+parking:lane:right:width	2.1	1	0										
+parking:lane:right:width	2.2	31	0										
+parking:lane:right:width	2.4	1	0										
+parking:lane:right:width	2.5	2	0										
+parking:lane:right:width	2.8	1	0										
+parking:lane:right:width	3.7	1	0										
+parking:lane:right:width	3.8	3	0										
+parking:lane:right:width	4	4	0										
+parking:lane:right:width	4.3	3	0										
+parking:lane:right:width	4.5	11	0										
+parking:lane:right:width	5	7	0										
+parking:lane:right:width	5.5	1	0										
+parking:lane:right:width	5.9	1	0										
+parking:lane:right:width	7	2	0		31	0							
+parking:lane:right:width	12'	1	0		1	0							
+parking:lane:right:width	13'	13	0		2	0							
+parking:lane:right:width	6 ft	3	0	5	0								
+parking:lane:right:width	7'6""	2	0	37	0								
+parking:lane:right:width	8'	34	0	5	0								
+parking:lane:width	11'	3	0	1	0								
+parking:lane:width	13'	117	0	0									
+parking:lane:width	8'	3	0										
+parking:left:lane:width	2	3	0										
+parking_space:width	2.5	1	0										
+parking_space:width	3.3	2	0										
+parking_space:width	2,3	1	0										
+path:left:width	1.5	15	0										
+path:left:width	2	8	0										
+path:right:width	1.25	2	0										
+path:right:width	1.5	2	0										
+path:right:width	1.75	1	0										
+path:right:width	2	4	0										
+path:right:width	2.5	1	0										
+path:width	0.8	1	0										
+path:width	1,95m	2	0										
+path:width	2m	1	0										
+pavement:width	0.1	15	0										
+pavement:width	0.2	9	0										
+pavement:width	0.5	1	0										
+pavement:width	0.5	8	0										
+pavement:width	0.6	1	0										
+pavement:width	1	4	0										
+pavement:width	1.1	1	0										
+pavement:width	1.3	1	0										
+pavement:width	3	7	0										
+pavement:width	3.5	1	0										
+pavement:width	4	1	0										
+pavement:width	7	1	0										
+paving_stones:width	0.1	17	0										
+paving_stones:width	0.12	2	0										
+paving_stones:width	10	13	0										
+paving_stones:width	12.5	1	0										
+paving_stones:width	30	11	0										
+paving_stones:width	35	65	0										
+paving_stones:width	40	28	0										
+paving_stones:width	75	2	0										
+paving_stones:width	0.15 m	4	0										
+paving_stones:width	0.8 m	1	0										
+paving_stones:width	10.5 cm	7	0										
+paving_stones:width	10cm	32	0										
+paving_stones:width	12 cm	4	0										
+paving_stones:width	13.5 cm	1	0										
+paving_stones:width	14 cm	4	0										
+paving_stones:width	15 cm	2	0										
+paving_stones:width	16 cm	6	0										
+paving_stones:width	21 cm	4	0										
+piste:width	3	4	0										
+piste:width	4	13	0										
+piste:width	4.5	1	0										
+pitch:width	15	1	0										
+pitch:width	17	1	0										
+pitch:width	20	6	0										
+pitch:width	25	6	0										
+pitch:width	30	27	0										
+pitch:width	31	1	0										
+pitch:width	32	3	0										
+pitch:width	33	1	0										
+pitch:width	35	45	0										
+pitch:width	36	7	0										
+pitch:width	37	2	0										
+pitch:width	38	9	0										
+pitch:width	39	3	0										
+pitch:width	40	110	0										
+pitch:width	41	7	0										
+pitch:width	42	9	0										
+pitch:width	44	7	0										
+pitch:width	45	19	0										
+pitch:width	46	2	0										
+pitch:width	49	1	0										
+pitch:width	50	52	0										
+pitch:width	51	1	0										
+pitch:width	52	3	0										
+pitch:width	54	3	0										
+pitch:width	55	22	0										
+pitch:width	56	4	0										
+pitch:width	57	4	0										
+pitch:width	58	15	0										
+pitch:width	59	7	0										
+pitch:width	60	62	0										
+pitch:width	62	16	0										
+pitch:width	63	4	0										
+pitch:width	64	3	0										
+pitch:width	65	3	0										
+pitch:width	66	2	0										
+pitch:width	67	2	0										
+pitch:width	70	7	0										
+pitch:width	72	1	0										
+pitch:width	73	1	0										
+pitch:width	75	3	0										
+pitch:width	76	3	0										
+pitch:width	77	1	0										
+pitch:width	85	1	0										
+pitch:width	90	2	0										
+pitch:width	125	2	0										
+ramp:width	0.6	1	0										
+ramp:width	0.9	1	0										
+ramp:width	1	1	0										
+ramp:width	narrow	1	0										
+razed:width	1.2	1	0										
+razed:width	2.5	1	0										
+roof:width	47.4	1	0										
+shoulder:both:width	1	4	0										
+shoulder:left:width	0.6	30	0										
+shoulder:left:width	0.8	5	0										
+shoulder:left:width	1	6	0										
+shoulder:left:width	1.2	3	0										
+shoulder:left:width	1.5	2	0										
+shoulder:left:width	1.6	2	0										
+shoulder:left:width	1.7	1	0										
+shoulder:left:width	2	49	0										
+shoulder:left:width	2.2	8	0										
+shoulder:left:width	2.8	18	0										
+shoulder:left:width	3	77	0										
+shoulder:left:width	3	6	0										
+shoulder:left:width	3.3	5	0										
+shoulder:left:width	3.5	15	0										
+shoulder:left:width	6	4	0										
+shoulder:right:width	0.4	1	0										
+shoulder:right:width	0.5	5	0										
+shoulder:right:width	0.6	3	0										
+shoulder:right:width	0.8	2	0										
+shoulder:right:width	1	31	0										
+shoulder:right:width	1.1	1	0										
+shoulder:right:width	1.2	30	0										
+shoulder:right:width	1.5	4	0										
+shoulder:right:width	1.6	1	0										
+shoulder:right:width	2	11	0										
+shoulder:right:width	2.25	4	0										
+shoulder:right:width	2.6	68	0										
+shoulder:right:width	2.8	1	0										
+shoulder:right:width	3	14	0										
+shoulder:right:width	3.5	2	0										
+shoulder:right:width	4	17	0										
+shoulder:right:width	5	5	0										
+shoulder:right:width	10	5	0										
+shoulder:right:width	15	1	0										
+shoulder:right:width	8 ft	15	0										
+shoulder:width	0	2	0										
+shoulder:width	0.1	29	0										
+shoulder:width	0.25	69	0										
+shoulder:width	0.3	88	0										
+shoulder:width	0.3	2	0										
+shoulder:width	0.35	2	0										
+shoulder:width	0.4	265	0										
+shoulder:width	0.4	4	0										
+shoulder:width	0.5	175	0										
+shoulder:width	0.5	12	0										
+shoulder:width	0.6	186	0										
+shoulder:width	0.6	6	0										
+shoulder:width	0.7	121	0										
+shoulder:width	0.8	528	0										
+shoulder:width	0.8	72	0										
+shoulder:width	0.9	6	0										
+shoulder:width	0.9	2	0										
+shoulder:width	1	1149	0										
+shoulder:width	1.2	74	0										
+shoulder:width	1.3	2	0										
+shoulder:width	1.3	31	0										
+shoulder:width	1.4	12	0										
+shoulder:width	1.5	524	0										
+shoulder:width	1.5	11	0										
+shoulder:width	1.6	2	0										
+shoulder:width	1.7	95	0										
+shoulder:width	1.8	86	0										
+shoulder:width	2	817	0										
+shoulder:width	2	8	0										
+shoulder:width	2.2	5	0										
+shoulder:width	2.25	1	0										
+shoulder:width	2.3	23	0										
+shoulder:width	2.4	1	0										
+shoulder:width	2.5	7	0										
+shoulder:width	2.6	1	0										
+shoulder:width	2.7	81	0										
+shoulder:width	2.8	18	0										
+shoulder:width	2.9	37	0										
+shoulder:width	3	585	0										
+shoulder:width	3.1	1	0										
+shoulder:width	3.2	8	0										
+shoulder:width	3.5	15	0										
+shoulder:width	3.6	2	0										
+shoulder:width	3.7	13	0										
+shoulder:width	3.8	1	0										
+shoulder:width	4	36	0										
+shoulder:width	5.5	1	0										
+shoulder:width	7.5	1	0										
+shoulder:width	8	2	0										
+shoulder:width	10.5	3	0										
+shoulder:width	60	1	0										
+shoulder:width	0-1	1	0										
+shoulder:width	1'	8	0										
+shoulder:width	1.5m	9	0										
+shoulder:width	10 ft	66	0										
+shoulder:width	10 m	1	0										
+shoulder:width	14'	1	0										
+shoulder:width	18 ft	1	0										
+shoulder:width	1m	1	0										
+shoulder:width	2'	4	0										
+shoulder:width	2.3|2.5	1	0										
+shoulder:width	4'	1	0										
+shoulder:width	4 ft	16	0										
+shoulder:width	5 ft	3	0										
+shoulder:width	6 ft	78	0										
+shoulder:width	7.5 m	2	0										
+shoulder:width	8 ft	3	0										
+shoulder:width	8; 3.5	1	0										
+sidewalk:both:paving_stones:width	0.24	5	0										
+sidewalk:both:width	0.3	1	0										
+sidewalk:both:width	0.4	2	0										
+sidewalk:both:width	0.4	10	0										
+sidewalk:both:width	0.5	11	0										
+sidewalk:both:width	0.5	20	0										
+sidewalk:both:width	0.6	2	0										
+sidewalk:both:width	0.6	24	0										
+sidewalk:both:width	0.7	15	0										
+sidewalk:both:width	0.75	9	0										
+sidewalk:both:width	0.8	6	0										
+sidewalk:both:width	0.8	22	0										
+sidewalk:both:width	0.9	2	0										
+sidewalk:both:width	0.9	23	0										
+sidewalk:both:width	1	40	0										
+sidewalk:both:width	1	58	0										
+sidewalk:both:width	1	80	0										
+sidewalk:both:width	1.1	4	0	0									
+sidewalk:both:width	1.2	62	0	0									
+sidewalk:both:width	1.2	59	0	0									
+sidewalk:both:width	1.25	138	0	0									
+sidewalk:both:width	1.3	5	0										
+sidewalk:both:width	1.3	15	0										
+sidewalk:both:width	1.4	3	0										
+sidewalk:both:width	1.4	9	0										
+sidewalk:both:width	1.45	3	0										
+sidewalk:both:width	1.5	94	0										
+sidewalk:both:width	1.5	154	0										
+sidewalk:both:width	1.6	5	0										
+sidewalk:both:width	1.6	10	0										
+sidewalk:both:width	1.7	7	0										
+sidewalk:both:width	1.75	77	0										
+sidewalk:both:width	1.8	22	0										
+sidewalk:both:width	1.8	18	0										
+sidewalk:both:width	1.9	1	0										
+sidewalk:both:width	1.9	6	0										
+sidewalk:both:width	2	16	0										
+sidewalk:both:width	2	35	0										
+sidewalk:both:width	2	19	0										
+sidewalk:both:width	2.1	3	0										
+sidewalk:both:width	2.2	5	0										
+sidewalk:both:width	2.25	4	0										
+sidewalk:both:width	2.3	1	0										
+sidewalk:both:width	2.3	2	0										
+sidewalk:both:width	2.4	3	0										
+sidewalk:both:width	2.45	1	0										
+sidewalk:both:width	2.5	35	0										
+sidewalk:both:width	2.5	4	0										
+sidewalk:both:width	2.6	3	0										
+sidewalk:both:width	2.75	1	0										
+sidewalk:both:width	2.8	1	0										
+sidewalk:both:width	2.93	1	0										
+sidewalk:both:width	3	3	0										
+sidewalk:both:width	3	5	0										
+sidewalk:both:width	3.2	3	0										
+sidewalk:both:width	3.25	3	0										
+sidewalk:both:width	3.3	1	0										
+sidewalk:both:width	3.4	1	0										
+sidewalk:both:width	3.5	1	0										
+sidewalk:both:width	3.6	1	0										
+sidewalk:both:width	3.85	3	0										
+sidewalk:both:width	4	1	0										
+sidewalk:both:width	4	2	0										
+sidewalk:both:width	4.3	5	0										
+sidewalk:both:width	< 0.5m	1	0										
+sidewalk:both:width	< 0.8 m	3	0										
+sidewalk:both:width	0.5.	1	0										
+sidewalk:both:width	1 m	2	0										
+sidewalk:both:width	1,20	1	0										
+sidewalk:both:width	1,25	1	0										
+sidewalk:both:width	1,5 m	1	0										
+sidewalk:both:width	1.5 m	1	0										
+sidewalk:both:width	2m	3	0										
+sidewalk:both:width	60cm	1	0										
+sidewalk:left:width	0		2										
+sidewalk:left:width	0.05		1										
+sidewalk:left:width	0.15		2										
+sidewalk:left:width	0.2		8										
+sidewalk:left:width	0.25		3										
+sidewalk:left:width	0.3		13										
+sidewalk:left:width	0.4		6										
+sidewalk:left:width	0.5		21										
+sidewalk:left:width	0.5		2										
+sidewalk:left:width	0.6		1										
+sidewalk:left:width	0.6		8										
+sidewalk:left:width	0.6		7										
+sidewalk:left:width	0.7		5										
+sidewalk:left:width	0.7		3										
+sidewalk:left:width	0.75		26										
+sidewalk:left:width	0.8		4										
+sidewalk:left:width	0.8		22										
+sidewalk:left:width	0.8		10										
+sidewalk:left:width	0.89		1										
+sidewalk:left:width	0.9		1										
+sidewalk:left:width	0.9		11										
+sidewalk:left:width	0.95		1										
+sidewalk:left:width	1		107										
+sidewalk:left:width	1		22										
+sidewalk:left:width	1		41										
+sidewalk:left:width	1.05		1										
+sidewalk:left:width	1.1		17										
+sidewalk:left:width	1.1		4										
+sidewalk:left:width	1.2		208										
+sidewalk:left:width	1.2		20										
+sidewalk:left:width	1.25		31										
+sidewalk:left:width	1.3		31										
+sidewalk:left:width	1.3		5	0									
+sidewalk:left:width	1.4		35	0									
+sidewalk:left:width	1.4		12										
+sidewalk:left:width	1.45		3										
+sidewalk:left:width	1.5		252										
+sidewalk:left:width	1.5		59										
+sidewalk:left:width	1.53		3										
+sidewalk:left:width	1.59		2										
+sidewalk:left:width	1.6		39										
+sidewalk:left:width	1.6		4										
+sidewalk:left:width	1.65		1										
+sidewalk:left:width	1.7		14										
+sidewalk:left:width	1.7		24										
+sidewalk:left:width	1.75		16										
+sidewalk:left:width	1.76		2										
+sidewalk:left:width	1.8		64										
+sidewalk:left:width	1.8		24										
+sidewalk:left:width	1.9		9										
+sidewalk:left:width	1.95		4										
+sidewalk:left:width	2		139										
+sidewalk:left:width	2		19										
+sidewalk:left:width	2		33										
+sidewalk:left:width	2.1		6										
+sidewalk:left:width	2.1		4										
+sidewalk:left:width	2.15		1										
+sidewalk:left:width	2.17		1										
+sidewalk:left:width	2.2		14										
+sidewalk:left:width	2.2		3										
+sidewalk:left:width	2.25		6										
+sidewalk:left:width	2.3		9										
+sidewalk:left:width	2.3		6										
+sidewalk:left:width	2.35		1										
+sidewalk:left:width	2.4		2										
+sidewalk:left:width	2.4		4										
+sidewalk:left:width	2.43		1										
+sidewalk:left:width	2.5		76										
+sidewalk:left:width	2.5		15										
+sidewalk:left:width	2.6		1										
+sidewalk:left:width	2.65		4										
+sidewalk:left:width	2.7		5										
+sidewalk:left:width	2.7		3										
+sidewalk:left:width	2.8		3										
+sidewalk:left:width	2.8		7										
+sidewalk:left:width	2.89		1										
+sidewalk:left:width	2.9		1										
+sidewalk:left:width	2.9		19										
+sidewalk:left:width	2.91		19										
+sidewalk:left:width	2.95		1										
+sidewalk:left:width	2.97		2										
+sidewalk:left:width	3		71										
+sidewalk:left:width	3		2										
+sidewalk:left:width	3		20										
+sidewalk:left:width	3.1		2										
+sidewalk:left:width	3.2		3										
+sidewalk:left:width	3.3		4										
+sidewalk:left:width	3.4		1										
+sidewalk:left:width	3.5		13										
+sidewalk:left:width	3.5		3										
+sidewalk:left:width	3.6		8										
+sidewalk:left:width	3.6		7										
+sidewalk:left:width	3.8		1										
+sidewalk:left:width	3.85		5										
+sidewalk:left:width	3.9		2										
+sidewalk:left:width	3.9		1										
+sidewalk:left:width	4		9										
+sidewalk:left:width	4		7										
+sidewalk:left:width	4.2		3										
+sidewalk:left:width	4.2		1										
+sidewalk:left:width	4.3		5										
+sidewalk:left:width	4.3		1										
+sidewalk:left:width	4.4		1										
+sidewalk:left:width	4.4		5										
+sidewalk:left:width	4.5		10										
+sidewalk:left:width	4.5		2										
+sidewalk:left:width	4.6		1										
+sidewalk:left:width	4.7		2										
+sidewalk:left:width	4.8		10										
+sidewalk:left:width	4.9		4										
+sidewalk:left:width	5		13										
+sidewalk:left:width	5.1		1										
+sidewalk:left:width	5.2		4										
+sidewalk:left:width	5.25		1										
+sidewalk:left:width	5.4		5										
+sidewalk:left:width	5.5		6										
+sidewalk:left:width	5.7		1										
+sidewalk:left:width	5.9		1										
+sidewalk:left:width	6		4										
+sidewalk:left:width	6		9										
+sidewalk:left:width	6.1		1										
+sidewalk:left:width	6.2		2										
+sidewalk:left:width	6.3		1										
+sidewalk:left:width	6.5		3										
+sidewalk:left:width	6.6		3										
+sidewalk:left:width	6.7		2										
+sidewalk:left:width	6.8		3										
+sidewalk:left:width	7		1										
+sidewalk:left:width	7.4		1										
+sidewalk:left:width	7.5		3										
+sidewalk:left:width	8		1										
+sidewalk:left:width	8		5										
+sidewalk:left:width	8.7		2										
+sidewalk:left:width	9		2										
+sidewalk:left:width	9.2		1										
+sidewalk:left:width	9.3		1										
+sidewalk:left:width	9.8		2										
+sidewalk:left:width	10.9		1										
+sidewalk:left:width	11.5		1										
+sidewalk:left:width	12		2										
+sidewalk:left:width	12.5		1										
+sidewalk:left:width	13		1										
+sidewalk:left:width	14.2		2										
+sidewalk:left:width	15.5		1										
+sidewalk:left:width	16		1										
+sidewalk:left:width	32		1										
+sidewalk:left:width	90		1										
+sidewalk:left:width	230		5										
+sidewalk:left:width	250		1										
+sidewalk:left:width	0,9		4										
+sidewalk:left:width	0.3m		1										
+sidewalk:left:width	0.5 m		2										
+sidewalk:left:width	0.5m		3										
+sidewalk:left:width	1 m		1										
+sidewalk:left:width	1,2		3										
+sidewalk:left:width	1,3		2										
+sidewalk:left:width	1,5		4										
+sidewalk:left:width	1,6		3										
+sidewalk:left:width	1,8		1										
+sidewalk:left:width	1.6 m		1										
+sidewalk:left:width	2 m		1										
+sidewalk:left:width	2;3.7		2										
+sidewalk:left:width	2m		1										
+sidewalk:left:width	3 ft		1	0									
+sidewalk:left:width	3 m		2	0									
+sidewalk:left:width	40cm		1	0									
+sidewalk:left:width	5 ft		1	0									
+sidewalk:left:width	6'		1	0									
+sidewalk:left:width	estimated	1	0	0									
+sidewalk:left:width:effective	1.5	1	0	0									
+sidewalk:left:width:max	2.52	4	0	0									
+sidewalk:right:paving_stones:width	0.15 m	2	0	0									
+sidewalk:right:surface:paving:stones:width	0.24	5	0	0									
+sidewalk:right:width	0.1		4	0									
+sidewalk:right:width	0.15		2	0									
+sidewalk:right:width	0.2		8	0									
+sidewalk:right:width	0.2		2	0									
+sidewalk:right:width	0.3		13	0									
+sidewalk:right:width	0.3		1	0									
+sidewalk:right:width	0.4		8	0									
+sidewalk:right:width	0.4		5	0									
+sidewalk:right:width	0.45		1										
+sidewalk:right:width	0.5		27	0									
+sidewalk:right:width	0.5		2	0									
+sidewalk:right:width	0.6		26	0									
+sidewalk:right:width	0.6		7	0									
+sidewalk:right:width	0.7		9	0									
+sidewalk:right:width	0.7		8	0									
+sidewalk:right:width	0.75		22	0									
+sidewalk:right:width	0.8		1	0									
+sidewalk:right:width	0.8		47	0									
+sidewalk:right:width	0.8		5	0									
+sidewalk:right:width	0.9		6	0									
+sidewalk:right:width	0.9		7										
+sidewalk:right:width	0.92		1	0									
+sidewalk:right:width	0.93		1	0									
+sidewalk:right:width	0.95		1	0									
+sidewalk:right:width	1		158	0									
+sidewalk:right:width	1		26	0									
+sidewalk:right:width	1		34	0									
+sidewalk:right:width	1.04		1	0									
+sidewalk:right:width	1.05		1	0									
+sidewalk:right:width	1.1		18	0									
+sidewalk:right:width	1.1		6	0									
+sidewalk:right:width	1.2		224	0									
+sidewalk:right:width	1.2		22	0									
+sidewalk:right:width	1.25		36										
+sidewalk:right:width	1.3		30	0									
+sidewalk:right:width	1.3		23	0									
+sidewalk:right:width	1.4		41	0									
+sidewalk:right:width	1.4		4	0									
+sidewalk:right:width	1.45		2	0									
+sidewalk:right:width	1.5		242	0									
+sidewalk:right:width	1.5		69	0									
+sidewalk:right:width	1.6		44	0									
+sidewalk:right:width	1.6		4	0									
+sidewalk:right:width	1.7		12	0									
+sidewalk:right:width	1.7		3	0									
+sidewalk:right:width	1.74		2	0									
+sidewalk:right:width	1.75		18	0									
+sidewalk:right:width	1.8		70	0									
+sidewalk:right:width	1.8		27	0									
+sidewalk:right:width	1.9		14	0									
+sidewalk:right:width	1.9		8	0									
+sidewalk:right:width	1.94		1	0									
+sidewalk:right:width	2		171	0									
+sidewalk:right:width	2		20	0									
+sidewalk:right:width	2		36	0									
+sidewalk:right:width	2.05		1	0									
+sidewalk:right:width	2.1		6	0									
+sidewalk:right:width	2.1		8	0									
+sidewalk:right:width	2.17		2	0									
+sidewalk:right:width	2.2		9	0									
+sidewalk:right:width	2.2		2	0									
+sidewalk:right:width	2.25		3	0									
+sidewalk:right:width	2.27		4	0									
+sidewalk:right:width	2.3		4	0									
+sidewalk:right:width	2.3		6	0									
+sidewalk:right:width	2.4		17	0									
+sidewalk:right:width	2.4		14	0									
+sidewalk:right:width	2.5		63	0									
+sidewalk:right:width	2.5		12	0									
+sidewalk:right:width	2.6		3	0									
+sidewalk:right:width	2.6		1	0									
+sidewalk:right:width	2.7		15	0									
+sidewalk:right:width	2.7		8	0									
+sidewalk:right:width	2.75		2	0									
+sidewalk:right:width	2.8		13	0									
+sidewalk:right:width	2.8		7	0									
+sidewalk:right:width	2.9		1	0									
+sidewalk:right:width	2.9		21	0									
+sidewalk:right:width	2.98		2	0									
+sidewalk:right:width	3		77	0									
+sidewalk:right:width	3		5	0									
+sidewalk:right:width	3		25	0									
+sidewalk:right:width	3.1		26	0									
+sidewalk:right:width	3.2		3	0									
+sidewalk:right:width	3.2		13	0									
+sidewalk:right:width	3.25		2	0									
+sidewalk:right:width	3.3		8	0									
+sidewalk:right:width	3.3		3	0									
+sidewalk:right:width	3.4		3	0									
+sidewalk:right:width	3.5		17	0									
+sidewalk:right:width	3.5		11	0									
+sidewalk:right:width	3.6		5	0									
+sidewalk:right:width	3.6		4	0									
+sidewalk:right:width	3.7		1	0									
+sidewalk:right:width	3.7		2	0									
+sidewalk:right:width	3.8		12	0									
+sidewalk:right:width	3.85		4	0									
+sidewalk:right:width	3.9		3	0									
+sidewalk:right:width	3.9		4	0									
+sidewalk:right:width	4		34	0									
+sidewalk:right:width	4		2	0									
+sidewalk:right:width	4		19	0									
+sidewalk:right:width	4.2		4	0									
+sidewalk:right:width	4.3		5	0									
+sidewalk:right:width	4.4		1	0									
+sidewalk:right:width	4.4		10	0									
+sidewalk:right:width	4.5		12	0									
+sidewalk:right:width	4.5		9	0									
+sidewalk:right:width	4.6		5	0									
+sidewalk:right:width	4.7		2	0									
+sidewalk:right:width	4.8		15	0									
+sidewalk:right:width	4.9		2	0									
+sidewalk:right:width	4.95		5	0									
+sidewalk:right:width	5		3	0									
+sidewalk:right:width	5		22	0									
+sidewalk:right:width	5.1		1	0									
+sidewalk:right:width	5.2		10	0									
+sidewalk:right:width	5.25		1	0									
+sidewalk:right:width	5.4		4										
+sidewalk:right:width	5.5		3										
+sidewalk:right:width	5.6		1										
+sidewalk:right:width	5.6		4										
+sidewalk:right:width	5.8		6										
+sidewalk:right:width	5.9		5										
+sidewalk:right:width	6		2										
+sidewalk:right:width	6		22										
+sidewalk:right:width	6.2		4										
+sidewalk:right:width	6.3		1										
+sidewalk:right:width	6.4		5										
+sidewalk:right:width	6.5		8										
+sidewalk:right:width	6.6		2										
+sidewalk:right:width	6.8		1										
+sidewalk:right:width	6.8		3										
+sidewalk:right:width	6.9		3										
+sidewalk:right:width	7		6										
+sidewalk:right:width	7.2		6										
+sidewalk:right:width	7.9		2										
+sidewalk:right:width	8		4										
+sidewalk:right:width	8.1		1										
+sidewalk:right:width	8.2		3										
+sidewalk:right:width	8.4		2										
+sidewalk:right:width	8.5		2										
+sidewalk:right:width	8.6		1										
+sidewalk:right:width	8.7		1										
+sidewalk:right:width	9		5										
+sidewalk:right:width	9.2		1										
+sidewalk:right:width	9.3		1										
+sidewalk:right:width	9.5		3										
+sidewalk:right:width	9.8		4										
+sidewalk:right:width	9.9		1										
+sidewalk:right:width	10		3										
+sidewalk:right:width	10.5		4										
+sidewalk:right:width	11.2		4										
+sidewalk:right:width	11.5		2										
+sidewalk:right:width	11.7		1										
+sidewalk:right:width	11.8		1										
+sidewalk:right:width	12		5										
+sidewalk:right:width	12.2		2										
+sidewalk:right:width	12.5		4										
+sidewalk:right:width	12.6		3										
+sidewalk:right:width	12.9		1										
+sidewalk:right:width	13.7		2										
+sidewalk:right:width	14.2		2										
+sidewalk:right:width	14.5		1										
+sidewalk:right:width	15		3										
+sidewalk:right:width	17.2		1										
+sidewalk:right:width	18.5		1										
+sidewalk:right:width	19.5		1										
+sidewalk:right:width	20		4										
+sidewalk:right:width	22.3		3										
+sidewalk:right:width	24		1										
+sidewalk:right:width	150		12										
+sidewalk:right:width	200		1	0									
+sidewalk:right:width	230		6	0									
+sidewalk:right:width	250		1	0									
+sidewalk:right:width	< 1 m		2	0									
+sidewalk:right:width	0.5m		3	0									
+sidewalk:right:width	1 m		1	0									
+sidewalk:right:width	1,2		4	0									
+sidewalk:right:width	1,5		5	0									
+sidewalk:right:width	1,6		2	0									
+sidewalk:right:width	1,70		5	0									
+sidewalk:right:width	1.5 m		8	0									
+sidewalk:right:width	1.5m		1	0									
+sidewalk:right:width	1.6 m		1	0									
+sidewalk:right:width	1m		1	0									
+sidewalk:right:width	2 m		8	0									
+sidewalk:right:width	2,2;3,34	3	0	0									
+sidewalk:right:width	2,40		1	0									
+sidewalk:right:width	2.5 ft		1	0									
+sidewalk:right:width	4.5 ft		1	0									
+sidewalk:right:width	40cm		1	0									
+sidewalk:right:width	50cm		1	0									
+sidewalk:right:width	separate	3	0	0									
+sidewalk:right:width:max	2.92	4	0	0									
+sidewalk:width	0.2	2	0	0									
+sidewalk:width	0.3	5	0	0									
+sidewalk:width	0.4	1	0	0									
+sidewalk:width	0.5	1	0	0									
+sidewalk:width	0.5	24	0	0									
+sidewalk:width	0.6	3	0	0									
+sidewalk:width	0.7	4	0	0									
+sidewalk:width	0.8	5	0	0									
+sidewalk:width	0.9	1	0	0									
+sidewalk:width	1	80	0	0									
+sidewalk:width	1	1	0										
+sidewalk:width	1.1	3	0	0									
+sidewalk:width	1.15	2	0	0									
+sidewalk:width	1.2	18	0	0									
+sidewalk:width	1.25	4	0	0									
+sidewalk:width	1.26	3	0										
+sidewalk:width	1.28	1	0	0									
+sidewalk:width	1.3	3	0	0									
+sidewalk:width	1.4	1	0	0									
+sidewalk:width	1.5	518	0	0									
+sidewalk:width	1.5	1	0	0									
+sidewalk:width	1.6	1	0	0									
+sidewalk:width	1.7	7	0	0									
+sidewalk:width	1.8	1	0	0									
+sidewalk:width	1.9	1	0	0									
+sidewalk:width	2	924	0	0									
+sidewalk:width	2	2	0	0									
+sidewalk:width	2.2	2	0	0									
+sidewalk:width	2.5	778	0	0									
+sidewalk:width	2.6	42	0	0									
+sidewalk:width	2.75	2	0	0									
+sidewalk:width	2.8	6	0	0									
+sidewalk:width	3	208	0	0									
+sidewalk:width	3	2	0	0									
+sidewalk:width	3.5	35	0	0									
+sidewalk:width	3.91	2	0	0									
+sidewalk:width	4	15	0	0									
+sidewalk:width	4	1	0	0									
+sidewalk:width	4.2	6	0	0									
+sidewalk:width	4.5	1	0	0									
+sidewalk:width	6.7	34	0	0									
+sidewalk:width	10	3	0										
+sidewalk:width	1 m	1	0	0									
+sidewalk:width	1,90	7	0	0									
+sidewalk:width	1.2m	1	0	0									
+sidewalk:width	1.5m	1	0	0									
+sidewalk:width	1m	3	0	0									
+sidewalk:width	2,5	2	0	0									
+sidewalk:width	2.5m	3	0	0									
+sidewalk:width	2m	3	0	0									
+sidewalk:width:effective	1	1	0	0									
+track:width	0.5	2	0	0									
+track:width	1	4	0										
+track:width	2	3	0	0									
+traffic_calming:width	2.5	1	0	0									
+traffic_calming:width	3	2	0	0									
+traffic_calming:width	3.5	2	0	0									
+traffic_calming:width	4	2	0	0									
+traffic_calming:width:end	0	1	0	0									
+traffic_calming:width:start	0	1	0	0									
+traffic_island:left:width	1	2	0										
+traffic_island:left:width	1.4	11	0										
+traffic_island:left:width	1.5	8	0										
+traffic_island:left:width	1.7	3	0										
+traffic_island:left:width	1.9	16	0										
+traffic_island:left:width	2	3	0										
+traffic_island:left:width	2.1	6	0										
+traffic_island:left:width	2.2	1	0										
+traffic_island:left:width	2.5	26	0										
+traffic_island:left:width	2.9	8	0										
+traffic_island:left:width	3.2	1	0										
+traffic_island:left:width	3.3	3	0										
+traffic_island:left:width	3.8	1	0										
+traffic_island:left:width	4	1	0										
+traffic_island:left:width	4.4	1	0										
+traffic_island:left:width	4.5	6	0										
+traffic_island:left:width	4.7	1	0										
+traffic_island:left:width	4.8	4	0										
+traffic_island:left:width	5.4	1	0										
+traffic_island:left:width	5.7	1	0										
+traffic_island:left:width	7	5	0										
+traffic_island:left:width	7.5	2	0										
+traffic_island:left:width	9	2	0										
+traffic_island:left:width	10	15	0										
+traffic_island:left:width	12	6	0										
+traffic_island:left:width	17.7	5	0										
+traffic_island:left:width	18.2	1	0										
+traffic_island:left:width	20	3	0										
+traffic_island:left:width	31.7	7	0										
+traffic_island:left:width	35.5	9	0										
+traffic_island:right:width	1.9	6	0										
+traffic_island:right:width	3.2	3	0										
+traffic_island:right:width	3.8	1	0										
+traffic_island:right:width	4.2	1	0										
+traffic_island:right:width	4.5	6	0										
+traffic_island:right:width	4.7	1	0										
+traffic_island:right:width	5	1	0										
+traffic_island:right:width	5.2	3	0										
+traffic_island:right:width	12.9	1	0										
+tunnel:width	1.8		1										
+tunnel:width	2.8		1										
+tunnel:width	3.1		1										
+tunnel:width	3.5		1										
+tunnel:width	3.6		1										
+tunnel:width	3.8		1										
+tunnel:width	4		7										
+tunnel:width	4		5										
+tunnel:width	4.1		1										
+tunnel:width	4.2		1										
+tunnel:width	4.5		1										
+tunnel:width	4.6		2										
+tunnel:width	4.8		1										
+tunnel:width	5		2										
+tunnel:width	5		3										
+tunnel:width	5.2		1										
+tunnel:width	5.5		4										
+tunnel:width	5.7		1										
+tunnel:width	5.8		3										
+tunnel:width	5.89		3										
+tunnel:width	6		2										
+tunnel:width	6		1	0									
+tunnel:width	6.7		1	0									
+tunnel:width	7		3	0									
+tunnel:width	7.1		1	0									
+tunnel:width	7.2		1	0									
+tunnel:width	7.5		3	0									
+tunnel:width	8		8										
+tunnel:width	8		3	0									
+tunnel:width	8.1		1	0									
+tunnel:width	8.2		5	0									
+tunnel:width	8.5		5	0									
+tunnel:width	8.6		2	0									
+tunnel:width	8.8		1										
+tunnel:width	9		1										
+tunnel:width	9.1		2										
+tunnel:width	9.15		1										
+tunnel:width	9.17		1										
+tunnel:width	9.2		2										
+tunnel:width	9.25		1										
+tunnel:width	9.5		5										
+tunnel:width	9.6		1										
+tunnel:width	9.7		1										
+tunnel:width	9.75		3										
+tunnel:width	9.8		1										
+tunnel:width	10		6										
+tunnel:width	10.25		1										
+tunnel:width	10.5		2										
+tunnel:width	10.6		1										
+tunnel:width	10.75		2										
+tunnel:width	10.93		1										
+tunnel:width	11		5										
+tunnel:width	11		1										
+tunnel:width	11.25		4										
+tunnel:width	11.75		1										
+tunnel:width	11.8		6										
+tunnel:width	13		1										
+tunnel:width	73		1										
+tunnel:width	21.2-25.2	2	0										
+verge:width	1.2	2	0										
+verge:width	1.5	2	0										
+verge:width	2	28	0										
+verge:width	3	3	0										
+verge:width	12	1	0										
+verge:width:left	2	2	0										
+verge:width:right	4	2	0										
+wall:width	0.2	1	0										
+width:asphalt	3.5	6	0										
+width:asphalt	7	4	0										
+width:asphalt	9	1	0										
+width:available	3.3	1	0										
+width:average	0.5	1	0										
+width:average	0.9	2	0										
+width:average	1	2	0										
+width:average	1.1	8	0										
+width:average	1.2	28	0										
+width:average	1.2	2	0										
+width:average	1.3	21	0										
+width:average	1.3	1	0										
+width:average	1.4	12	0										
+width:average	1.5	37	0										
+width:average	1.6	36	0										
+width:average	1.6	2	0										
+width:average	1.7	72	0										
+width:average	1.8	46	0										
+width:average	1.9	41	0										
+width:average	2	27	0										
+width:average	2	90	0										
+width:average	2.1	44	0										
+width:average	2.2	42	0										
+width:average	2.2	2	0										
+width:average	2.3	56	0										
+width:average	2.4	36	0										
+width:average	2.4	3	0										
+width:average	2.5	60	0										
+width:average	2.6	27	0										
+width:average	2.7	15	0										
+width:average	2.8	38	0										
+width:average	2.9	19	0										
+width:average	3	19	0										
+width:average	3	69	0										
+width:average	3.1	30	0										
+width:average	3.2	21	0										
+width:average	3.3	11	0										
+width:average	3.3	4	0										
+width:average	3.4	17	0										
+width:average	3.5	17	0										
+width:average	3.5	1	0										
+width:average	3.6	6	0										
+width:average	3.8	2	0										
+width:average	4	11	0										
+width:average	4	44	0										
+width:average	4.1	4	0										
+width:average	4.2	5	0										
+width:average	4.3	3	0										
+width:average	4.4	4	0										
+width:average	5	6	0										
+width:average	5	22	0										
+width:average	5.2	4	0										
+width:average	5.5	2	0										
+width:average	5.6	13	0										
+width:average	5.8	1	0										
+width:average	5.9	1	0										
+width:average	6	3	0										
+width:average	6.5	2	0										
+width:average	7	3	0										
+width:average	7	2	0										
+width:average	7.2	1	0										
+width:average	7.5	1	0										
+width:average	7.5	2	0										
+width:average	8	17	0										
+width:average	9	4	0										
+width:average	12	5	0										
+width:backward	2	1	0										
+width:backward	3	44	0										
+width:backward	3.2	1	0										
+width:backward	4	1	0										
+width:backward	4.1	1	0										
+width:backward	6	2	0										
+width:backward	40 ft	1	0										
+width:bicycle	1	3	0										
+width:bicycle	1.2	3	0										
+width:bicycle	1.2	1	0										
+width:bicycle	1.4	3	0										
+width:bicycle	1.44	1	0										
+width:bicycle	1.45	1	0										
+width:bicycle	1.5	5	0										
+width:bicycle	2	4	0										
+width:bicycle	2	9	0										
+width:bicycle	4	1	0										
+width:bicycle:lane	1	1	0										
+width:carriage	0	2	0										
+width:carriage	2.5	3	0										
+width:carriage	3	28	0										
+width:carriage	3.5	72	0										
+width:carriage	3.75	24	0										
+width:carriage	4	19	0										
+width:carriage	4.5	36	0										
+width:carriage	5	23	0										
+width:carriage	5.5	3	0										
+width:carriage	6	25	0										
+width:carriage	3 m	1	0										
+width:carriage	3.5 m	9	0										
+width:carriage	3.5m	4	0										
+width:carriage	4 m	12	0										
+width:carriage	5 m	5	0										
+width:carriage	5m	1	0										
+width:carriage	7 m	2	0										
+width:carriageway	1.8	1	0										
+width:carriageway	1.9	2	0										
+width:carriageway	1.95	1	0										
+width:carriageway	2	1	0										
+width:carriageway	2.1	1	0										
+width:carriageway	2.3	1	0										
+width:carriageway	2.5	4	0										
+width:carriageway	2.6	7	0										
+width:carriageway	2.7	6	0										
+width:carriageway	2.8	5	0										
+width:carriageway	2.9	10	0										
+width:carriageway	3	4	0										
+width:carriageway	3	9	0										
+width:carriageway	3.1	10	0										
+width:carriageway	3.2	9	0										
+width:carriageway	3.22	1	0										
+width:carriageway	3.3	12	0										
+width:carriageway	3.4	13	0										
+width:carriageway	3.5	16	0										
+width:carriageway	3.6	9	0										
+width:carriageway	3.7	9	0										
+width:carriageway	3.8	12	0										
+width:carriageway	3.9	10	0										
+width:carriageway	4	2	0										
+width:carriageway	4	23	0										
+width:carriageway	4.1	11	0										
+width:carriageway	4.2	7	0										
+width:carriageway	4.3	17	0										
+width:carriageway	4.4	10	0										
+width:carriageway	4.5	27	0										
+width:carriageway	4.6	8	0										
+width:carriageway	4.7	12	0										
+width:carriageway	4.8	9	0										
+width:carriageway	4.9	12	0										
+width:carriageway	5	1	0										
+width:carriageway	5	32	0										
+width:carriageway	5.1	13	0										
+width:carriageway	5.2	23	0										
+width:carriageway	5.3	12	0										
+width:carriageway	5.4	22	0										
+width:carriageway	5.5	48	0										
+width:carriageway	5.6	22	0										
+width:carriageway	5.7	15	0										
+width:carriageway	5.8	30	0										
+width:carriageway	5.9	11	0										
+width:carriageway	6	30	0										
+width:carriageway	6	35	0										
+width:carriageway	6.1	21	0										
+width:carriageway	6.2	24	0										
+width:carriageway	6.3	14	0										
+width:carriageway	6.4	6	0										
+width:carriageway	6.5	34	0										
+width:carriageway	6.6	13	0										
+width:carriageway	6.7	11	0										
+width:carriageway	6.8	18	0										
+width:carriageway	6.9	15	0										
+width:carriageway	7	17	0										
+width:carriageway	7	24	0										
+width:carriageway	7.1	5	0										
+width:carriageway	7.2	8	0										
+width:carriageway	7.3	10	0										
+width:carriageway	7.4	2	0										
+width:carriageway	7.5	25	0										
+width:carriageway	7.6	7	0										
+width:carriageway	7.7	5	0										
+width:carriageway	7.8	25	0										
+width:carriageway	7.9	6	0										
+width:carriageway	8	6	0										
+width:carriageway	8	3	0										
+width:carriageway	8.1	5	0										
+width:carriageway	8.2	2	0										
+width:carriageway	8.3	1	0										
+width:carriageway	8.4	4	0										
+width:carriageway	8.5	15	0										
+width:carriageway	8.6	2	0										
+width:carriageway	8.7	4	0										
+width:carriageway	8.8	3	0										
+width:carriageway	8.9	4	0										
+width:carriageway	9	18	0										
+width:carriageway	9	3	0										
+width:carriageway	9.1	3	0										
+width:carriageway	9.2	2	0										
+width:carriageway	9.3	3	0										
+width:carriageway	9.4	1	0										
+width:carriageway	9.5	1	0										
+width:carriageway	9.8	1	0										
+width:carriageway	9.9	1	0										
+width:carriageway	10	13	0										
+width:carriageway	10	4	0										
+width:carriageway	10.1	1	0										
+width:carriageway	10.2	2	0										
+width:carriageway	10.3	1	0										
+width:carriageway	10.4	2	0										
+width:carriageway	10.5	1	0										
+width:carriageway	10.6	1	0										
+width:carriageway	10.8	2	0										
+width:carriageway	11	60	0										
+width:carriageway	11	2	0										
+width:carriageway	11.1	1	0										
+width:carriageway	11.2	2	0										
+width:carriageway	11.4	6	0										
+width:carriageway	11.5	3	0										
+width:carriageway	11.7	2	0										
+width:carriageway	12	8	0										
+width:carriageway	12.3	1	0										
+width:carriageway	12.4	1	0										
+width:carriageway	12.8	1	0										
+width:carriageway	15	13	0										
+width:carriageway	15	1	0										
+width:carriageway	15.5	2	0										
+width:carriageway	18	1	0										
+width:center_divider	0	1	0										
+width:center_divider	2	6	0										
+width:center_divider	2x	1	0										
+width:center_divider	lane	1	0										
+width:centre_divider	2.3	1	0										
+width:centre_divider	1 lane	17	0										
+width:centre_divider:end	0		1										
+width:centre_divider:end	2		1										
+width:centre_divider:end	2.6		1										
+width:centre_divider:end	2.8		1										
+width:centre_divider:end	3		1										
+width:centre_divider:end	1 lane		6										
+width:centre_divider:end	1.3 lane	1	0										
+width:centre_divider:end	2 lane		2										
+width:centre_divider:start	0		1										
+width:centre_divider:start	2		2										
+width:centre_divider:start	2.6		1										
+width:centre_divider:start	2.8		2										
+width:centre_divider:start	1 lane		8										
+width:centre_divider:start	1.3 lane	1	0										
+width:centre_divider:start	2 lane		1										
+width:centre_divider:start	3 lane		1										
+width:check_date	2/14/2020	2	0										
+width:check_date	10/11/2020	1	0										
+width:check_date	10/23/2020	7	0										
+width:check_date	10/28/2020	8	0										
+width:check_date	2/3/2021	4	0										
+width:comment	width of asphalt surface	13	0										
+width:cutline	0.5	1	0										
+width:cutline	1	2	0										
+width:cutline	2.5	3	0										
+width:cutline	4	1	0										
+width:cutline	4.5	1	0										
+width:cycleway	0.8	1	0										
+width:cycleway	1	7	0										
+width:cycleway	1.1	1	0										
+width:cycleway	1.2	1	0										
+width:cycleway	1.5	11	0										
+width:cycleway	1.6	2	0										
+width:cycleway	1.8	1	0										
+width:description	gesamtbreite 2m, rechte hälfte für kinderwagen und fahrrad, daher 1m netto breite	1	0										
+width:description	hecke sehr ausladend												
+width:description	mit sesseln verstellt												
+width:dividers:end	4.3	1	0										
+width:dividers:end	4.8||	1	0										
+width:dividers:forward	0|1 lane	1	0										
+width:dividers:forward:end	0|1 lane	1	0										
+width:east	5,8m	1	0										
+width:effective	2	1	0										
+width:effective	2.5	1	0										
+width:effective	3	1	0										
+width:effective	3.3	1	0										
+width:effective	3.8	2	0										
+width:effective	5.2	8	0										
+width:effective	5.8	6	0										
+width:effective	7	2	0										
+width:effective	8	1	0										
+width:end	3.75	1	0										
+width:end	4	2	0										
+width:end	6	5	0										
+width:end	8	2	0										
+width:end	10	1	0										
+width:end	11	1	0										
+width:end	13	1	0										
+width:end	14.7	1	0										
+width:end	20	1	0										
+width:feet	1	6	0										
+width:feet	10	2	0										
+width:feet	29.6	7	0										
+width:feet	30.2	2	0										
+width:feet	40	1	0										
+width:feet	100	2	0										
+width:feet	151	13	0										
+width:foot	1.5	9	0										
+width:foot	1.7	2	0										
+width:foot	1.8	2	0										
+width:foot	2.2	1	0										
+width:footway	1.5	3	0										
+width:footway	1.6	1	0										
+width:footway	1.7	1	0										
+width:footway	2	1	0										
+width:footway	2.2	2	0										
+width:footway	2.4	1	0										
+width:footway	2.6	1	0										
+width:footway	2.8	2	0										
+width:forward	3	42	0										
+width:forward	3.5	4	0										
+width:forward	5	1	0										
+width:forward	6	2	0										
+width:forward	6.4	1	0										
+width:forward	8.6	1	0										
+width:forward	3.5|	2	0										
+width:ft	118	1	0										
+width:ft	151	1	0										
+width:historic	2	3	0										
+width:lanes	|1												
+width:lanes	0.8|2.5|2.5												
+width:lanes	1.5|3.5|3.5|3.5												
+width:lanes	1||												
+width:lanes	2.5|2.5|1.5												
+width:lanes	2.7|2.7												
+width:lanes	2|3|3												
+width:lanes	3.2|3.5|3.5|2												
+width:lanes	3.25|3.25												
+width:lanes	3.3|3.6												
+width:lanes	3.5|2.5|2.5												
+width:lanes	3.5|4|2.5												
+width:lanes	3.7|3.9												
+width:lanes	3|1.5|3|3|6												
+width:lanes	3|3|1.6												
+width:lanes	4.00|3.60												
+width:lanes	4.5|4.5|4.5|2.5|1.5												
+width:lanes	4|4|3												
+width:lanes	5.5|4.5												
+width:lanes	6.5|2												
+width:lanes:backward	.25|2.5|.25	2	0										
+width:lanes:backward	|1.7		14										
+width:lanes:backward	1.5|3|3		2										
+width:lanes:backward	1|1		1										
+width:lanes:backward	2.5|1.2|2.5	4	0										
+width:lanes:backward	2.6|2.6|1.3	1	0										
+width:lanes:backward	2|2.5|2.5	2	0										
+width:lanes:backward	3.15|1.7	1	0										
+width:lanes:backward	3.2|1.8		1										
+width:lanes:backward	3.3|1.4		1										
+width:lanes:backward	3.4|1.4		2										
+width:lanes:backward	3.5|3		3										
+width:lanes:backward	3.75|1.5	2	0										
+width:lanes:backward	3|1.6		15										
+width:lanes:backward	3|3|1.2|3	2	0										
+width:lanes:backward	3|7		2										
+width:lanes:backward	4.5|2.5		9										
+width:lanes:backward	4|1.4		3										
+width:lanes:backward	5.5|1.8		2	0									
+width:lanes:backward	7.5|1.8		3	0									
+width:lanes:backward:end	3	1	0	0									
+width:lanes:backward:end	4.8	1	0	0									
+width:lanes:backward:end	5.5	1	0	0									
+width:lanes:backward:end	5.8	1	0	0									
+width:lanes:backward:end	|||0	2	0	0									
+width:lanes:backward:end	||0	3	0	0									
+width:lanes:backward:end	|0	3	0	0									
+width:lanes:backward:end	|0||	1	0	0									
+width:lanes:backward:end	0|	4	0	0									
+width:lanes:backward:end	0||	3	0	0									
+width:lanes:backward:end	0|||2.5	1	0	0									
+width:lanes:backward:end	0||2.65	1	0	0									
+width:lanes:backward:end	0|0|	1	0	0									
+width:lanes:backward:end	1|	2	0	0									
+width:lanes:backward:end	2.8|2.8	1	0	0									
+width:lanes:backward:end	3|3	1	0	0									
+width:lanes:backward:start	3.8	1	0	0									
+width:lanes:backward:start	4.8	1	0	0									
+width:lanes:backward:start	5.3	1	0	0									
+width:lanes:backward:start	||0	1	0	0									
+width:lanes:backward:start	||1.4	1	0	0									
+width:lanes:backward:start	||2.5	1	0	0									
+width:lanes:backward:start	|1.8||	1	0	0									
+width:lanes:backward:start	|2.65	1	0	0									
+width:lanes:backward:start	1|	2	0	0									
+width:lanes:backward:start	2.8|2.8	1	0	0									
+width:lanes:backward:start	3|6	1	0	0									
+width:lanes:backward:start	7||	1	0	0									
+width:lanes:both_ways	0.25	3	0	0									
+width:lanes:both_ways	0.5	3	0	0									
+width:lanes:both_ways	0.5	6	0	0									
+width:lanes:both_ways	1	46	0	0									
+width:lanes:both_ways	1.5	32	0	0									
+width:lanes:both_ways	2	40	0	0									
+width:lanes:both_ways	2.3	2	0	0									
+width:lanes:both_ways	2.5	10	0	0									
+width:lanes:both_ways	3	41	0	0									
+width:lanes:both_ways	3.2	1	0	0									
+width:lanes:both_ways	3.5	4	0	0									
+width:lanes:both_ways	3.7	1	0	0									
+width:lanes:both_ways	4	33	0	0									
+width:lanes:both_ways	4.5	4	0	0									
+width:lanes:both_ways	5	8	0	0									
+width:lanes:both_ways	5.5	1	0	0									
+width:lanes:both_ways	5.8	1	0	0									
+width:lanes:both_ways	6	10	0	0									
+width:lanes:both_ways	6.4	3	0	0									
+width:lanes:both_ways	6.5	3	0	0									
+width:lanes:both_ways	7	7	0	0									
+width:lanes:both_ways	8	2	0	0									
+width:lanes:both_ways	9	5	0	0									
+width:lanes:both_ways	1|3|3|1	2	0	0									
+width:lanes:both_ways	2.5|2.5	1	0	0									
+width:lanes:both_ways:end	0	3	0	0									
+width:lanes:both_ways:end	3	1	0	0									
+width:lanes:both_ways:start	3	3	0	0									
+width:lanes:end	||||||0			0									
+width:lanes:end	|||||2.0		1	0									
+width:lanes:end	||||0			0									
+width:lanes:end	|||0			0									
+width:lanes:end	|||2			0									
+width:lanes:end	||0			0									
+width:lanes:end	||1.5			0									
+width:lanes:end	||1.5|3.3		1	0									
+width:lanes:end	|0			0									
+width:lanes:end	0|			0									
+width:lanes:end	0||			0									
+width:lanes:end	1.9|||3.2		1	0									
+width:lanes:end	2 lane			0									
+width:lanes:end	2 lanes||		1	0									
+width:lanes:end	2.6||			0									
+width:lanes:end	2|			0									
+width:lanes:end	2|0|2			0									
+width:lanes:end	2|5|1.5			0									
+width:lanes:end	3.3|3.3|3.3		4	0									
+width:lanes:end	3.3|3.3|3.4|3.3|4	1	0	0									
+width:lanes:end	3.5|0|3.5		1	0									
+width:lanes:end	3.5|2|3.5		1	0									
+width:lanes:end	3.5|3.5|3.5		1	0									
+width:lanes:end	3.5|3.5|3.5|3.5		1	0									
+width:lanes:end	3.5|3.5|3.8		1	0									
+width:lanes:end	3.5|4|1.5		1	0									
+width:lanes:end	3.7|3.7|3.7|3.7|3.7	1	0	0									
+width:lanes:end	3|3			0									
+width:lanes:end	3|3|3			0									
+width:lanes:end	4.7||			0									
+width:lanes:end	4|3.7|4.9		1	0									
+width:lanes:end	5.1||			0									
+width:lanes:end	5|6|20			0									
+width:lanes:end	7|7			0									
+width:lanes:forward	2.2			0									
+width:lanes:forward	4.2			0									
+width:lanes:forward	11			0									
+width:lanes:forward	| |1.25			0									
+width:lanes:forward	|2.5			0									
+width:lanes:forward	0.9|1.8			0									
+width:lanes:forward	2.5|2.5|2.5|1		1	0									
+width:lanes:forward	2.75|1.5		2	0									
+width:lanes:forward	22'			0									
+width:lanes:forward	3.15|1.7		1	0									
+width:lanes:forward	3.2|3.3			0									
+width:lanes:forward	3.3|3.3			0									
+width:lanes:forward	3.5|1.6|4		1	0									
+width:lanes:forward	3.5|4.5			0									
+width:lanes:forward	3.8|1.8			0									
+width:lanes:forward	3|1.8			0									
+width:lanes:forward	3|3|1.6			0									
+width:lanes:forward	4.5|4.3|2		2	0									
+width:lanes:forward	4|4			0									
+width:lanes:forward	5|1.5			0									
+width:lanes:forward:end	3		1	0									
+width:lanes:forward:end	4.8		1	0									
+width:lanes:forward:end	7.8		1	0									
+width:lanes:forward:end	|0		2	0									
+width:lanes:forward:end	|5.5		1	0									
+width:lanes:forward:end	1.8|||3.1	1	0	0									
+width:lanes:forward:end	2.8|2.8|2.8	1	0	0									
+width:lanes:forward:end	2|2		1	0									
+width:lanes:forward:end	3.3|3.8|1.2|4.5	1	0	0									
+width:lanes:forward:end	7||		1	0									
+width:lanes:forward:start	4.8		1	0									
+width:lanes:forward:start	5.2		1	0									
+width:lanes:forward:start	5.3		1	0									
+width:lanes:forward:start	|||0		1	0									
+width:lanes:forward:start	||0		2	0									
+width:lanes:forward:start	|0		1	0									
+width:lanes:forward:start	0|		4	0									
+width:lanes:forward:start	0||		5	0									
+width:lanes:forward:start	0|||		2	0									
+width:lanes:forward:start	0|||0		1	0									
+width:lanes:forward:start	0|0||		1	0									
+width:lanes:forward:start	0|3.6|1.5|0	1	0	0									
+width:lanes:forward:start	2.8|2.8		1	0									
+width:lanes:forward:start	5|2		1	0									
+width:lanes:start	|||||0			0									
+width:lanes:start	|||||2.0		1	0									
+width:lanes:start	|||0			0									
+width:lanes:start	|||2			0									
+width:lanes:start	||0			0									
+width:lanes:start	||1.4			0									
+width:lanes:start	||1.5			0									
+width:lanes:start	||1.5|0			0									
+width:lanes:start	|0			0									
+width:lanes:start	0|			0									
+width:lanes:start	0||			0									
+width:lanes:start	0|||			0									
+width:lanes:start	0||||			0									
+width:lanes:start	0|||||0			0									
+width:lanes:start	0|||0			0									
+width:lanes:start	0|||1.5			0									
+width:lanes:start	0||0			0									
+width:lanes:start	0|0||			0									
+width:lanes:start	0|0|||			0									
+width:lanes:start	0|0||||			0									
+width:lanes:start	0|0||||0		2	0									
+width:lanes:start	0|3.3|3.4|3.3|4		1	0									
+width:lanes:start	0|3.5|3.8		1	0									
+width:lanes:start	0|3.75|1.5		1	0									
+width:lanes:start	0|4|1.5			0									
+width:lanes:start	1.8||			0									
+width:lanes:start	1.8|||3.1		1	0									
+width:lanes:start	1.9|||3.2		1	0									
+width:lanes:start	2.6|||0			0									
+width:lanes:start	2||0			0									
+width:lanes:start	2|2|2			0									
+width:lanes:start	3.3|3.3|3.3		4	0									
+width:lanes:start	3.5|0|3.5		1	0									
+width:lanes:start	3.5|3.5|0		1	0									
+width:lanes:start	3.5|3.5|3.5|3.5		1	0									
+width:lanes:start	3.7|0|3.7|3.7|3.7	1	0	0									
+width:lanes:start	3.9||			0									
+width:lanes:start	3.9|3.6|1.5		1										
+width:lanes:start	3|0|3												
+width:lanes:start	3|3												
+width:lanes:start	3|3|3												
+width:lanes:start	4.7||												
+width:lanes:start	5|5												
+width:lanes:start	5|6|20												
+width:left	1.5	1	0										
+width:left	2,5	1	0										
+width:marine	5.5	1	0										
+width:maximum	14.4	2	0	0									
+width:meter	36	1	0	0									
+width:meter	46	1	0	0									
+width:minimum	11.7	2	0	0									
+width:note	blumentöpfe am gehweg		1	0									
+width:note	breite incl. busspur		1	0									
+width:note	breite vor ort geschätzt	1	0	0									
+width:note	estimated			0									
+width:note	mistkübeln am gehsteig		1	0									
+width:note	mistkübeln stehen fix da	1	0	0									
+width:note	parkstreifen am gehsteig	3	0	0									
+width:note	sträuche			0									
+width:notes	minimum width	2	0	0									
+width:path	0.4	1	0	0									
+width:paved	3.5	17	0	0									
+width:paved	6.5	2	0	0									
+width:physical	2	1	0	0									
+width:physical	5.4	1	0	0									
+width:right	1	1	0	0									
+width:right	2.5	1	0	0									
+width:right	10	1	0	0									
+width:right	12	8	0	0									
+width:right	14	4	0	0									
+width:right	15	2	0	0									
+width:right	16	1	0	0									
+width:right	18	1	0	0									
+width:row	0.75			0									
+width:row	3.5			0									
+width:row	5			0									
+width:row	6			0									
+width:row	6.5			0									
+width:row	7			0									
+width:row	7.5			0									
+width:row	8			0									
+width:row	10			0									
+width:row	12			0									
+width:row	15			0									
+width:row	20			0									
+width:row	10 m			0									
+width:row	10 m either side	1	0	0									
+width:row	10m			0									
+width:row	15m			0									
+width:row	16m			0									
+width:row	20 m			0									
+width:row	7 m			0									
+width:shoulder	0	25	0	0									
+width:shoulder	0.1	145	0	0									
+width:shoulder	0.25	1	0	0									
+width:shoulder	0.3	104	0	0									
+width:shoulder	0.5	15	0	0									
+width:shoulder	0.5	150	0	0									
+width:shoulder	0.5	1	0	0									
+width:shoulder	0.7	6	0	0									
+width:shoulder	0.75	34	0	0									
+width:shoulder	0.75	44	0	0									
+width:shoulder	1	376	0	0									
+width:shoulder	1	6	0	0									
+width:shoulder	1.3	1	0	0									
+width:shoulder	1.5	64	0	0									
+width:shoulder	1.6	5	0	0									
+width:shoulder	1.7	12	0	0									
+width:shoulder	1.8	6	0	0									
+width:shoulder	2	126	0	0									
+width:shoulder	2.7	43	0	0									
+width:shoulder	4	3	0	0									
+width:shoulder	.75 m	1	0	0									
+width:shoulder	0.5 m	5	0	0									
+width:shoulder	1 m	24	0	0									
+width:shoulder	1.5 m	2	0	0									
+width:shoulder	1m	4	0	0									
+width:sidewalk	0.7	1	0	0									
+width:sidewalk	0.8	1	0	0									
+width:sidewalk	0.8	4	0	0									
+width:sidewalk	1	1	0	0									
+width:sidewalk	1.1	6	0	0									
+width:sidewalk	1.5	2	0	0									
+width:sidewalk	1.8	1	0	0									
+width:sidewalk	2	10	0	0									
+width:sidewalk	3	1	0	0									
+width:sidewalk	2 m	1	0	0									
+width:sidewalk:right	0.5	3	0	0									
+width:source	alkis			0									
+width:source	approx			0									
+width:source	bing												
+width:source	estimate			0									
+width:source	estimated			0									
+width:source	estimation			0									
+width:source	maaamet ortho			0									
+width:source	mit armspanne geschätzt		1	0									
+width:source	schätzung - zu schmal für pkw.	1	0	0									
+width:start	4	2	0	0									
+width:start	6	2	0	0									
+width:start	7.5	3	0	0									
+width:start	8	2	0	0									
+width:start	8.5	1	0	0									
+width:start	10	1	0	0									
+width:start	14	2	0	0									
+width:start	16.5	1	0	0									
+width:street	2	6	0	0									
+width:street	3	9	0	0									
+width:street	4	20	0	0									
+width:street	4	1	0	0									
+width:street	5	34	0	0									
+width:street	5.8	1	0	0									
+width:street	6	67	0	0									
+width:street	7	121	0	0									
+width:street	7	2	0	0									
+width:street	7.2	1	0	0									
+width:street	7.4	1	0	0									
+width:street	7.6	4	0	0									
+width:street	8	153	0	0									
+width:street	8.1	1	0	0									
+width:street	8.2	2	0	0									
+width:street	8.4	2	0	0									
+width:street	8.5	2	0	0									
+width:street	8.9	1	0	0									
+width:street	9	149	0	0									
+width:street	9	1	0	0									
+width:street	9.5	2	0	0									
+width:street	9.7	1	0	0									
+width:street	10	332	0	0									
+width:street	10.3	1	0	0									
+width:street	10.5	1	0	0									
+width:street	11	200	0	0									
+width:street	11.5	1	0	0									
+width:street	12	226	0	0									
+width:street	12	2	0	0									
+width:street	13	137	0	0									
+width:street	13	1	0	0									
+width:street	14	159	0	0									
+width:street	14	1	0	0									
+width:street	15	131	0	0									
+width:street	16	127	0	0									
+width:street	16.5	1	0	0									
+width:street	17	33	0	0									
+width:street	18	77	0	0									
+width:street	19	16	0	0									
+width:street	20	122	0	0									
+width:street	21	17	0	0									
+width:street	22	15	0	0									
+width:street	23	10	0	0									
+width:street	24	83	0	0									
+width:street	25	52	0	0									
+width:street	26	2	0	0									
+width:street	27	50	0	0									
+width:street	28	31	0	0									
+width:street	29	20	0	0									
+width:street	30	105	0	0									
+width:street	32	35	0	0									
+width:street	33	32	0	0									
+width:street	35	41	0	0									
+width:street	36	55	0	0									
+width:street	37	2	0	0									
+width:street	38	57	0	0									
+width:street	40	268	0	0									
+width:street	44	55	0	0									
+width:street	47	45	0	0									
+width:street	48	3	0	0									
+width:street	50	75	0	0									
+width:street	54	4	0	0									
+width:street	57	4	0	0									
+width:street	60	2	0	0									
+width:street	65	1	0	0									
+width:street	70	65	0	0									
+width:street	72	13	0	0									
+width:street	100	40	0	0									
+width:street	10; 12	3	0	0									
+width:street	15;10	1	0	0									
+width:street	70;50	31	0	0									
+width:subgrade	10	6	0	0									
+width:subgrade	12	8	0	0									
+width:summer	1	1	0	0									
+width:summer	2	1	0	0									
+width:surface:asphalt	2.5	4	0	0									
+width:surface:fine_gravel	1.5	1	0	0									
+width:surface:fine_gravel	1.7	3	0	0									
+width:top	5	1	0	0									
+width:track	2	2	0	0									
+width:units	meters	15	0	0									
+width:wall	0.025	2	0	0									
+width:water	0.5	1	0	0									
+width:west	5,4m	1	0	0									
+wreck:width	9	1	0	0									
+wreck:width	9.6	1	0	0									
+wreck:width	23.3	1	0	0									
+wreck:width	11.18 m	1	0	0									
+wreck:width	23m	3	0	0									
+wreck:width	50ft	1	0	0									
+wreck:width	6,9	1	0	0									

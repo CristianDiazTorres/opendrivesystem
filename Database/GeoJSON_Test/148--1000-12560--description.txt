@@ -1,0 +1,4 @@
+id=148
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road_lanes_laneSection_lcr_lane_roadMark_sway.geojson
+tag=t_road_lanes_laneSection_lcr_lane_roadMark_sway
+operation=insert

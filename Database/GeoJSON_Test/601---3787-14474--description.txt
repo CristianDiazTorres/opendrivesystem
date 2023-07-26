@@ -1,0 +1,4 @@
+id=601
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/Road/t_road_move.geojson
+tag=t_road
+operation=none

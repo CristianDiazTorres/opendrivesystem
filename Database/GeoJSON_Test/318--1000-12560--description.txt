@@ -1,0 +1,4 @@
+id=318
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road_link_predecessorSuccessor.geojson
+tag=t_road_link_predecessorSuccessor
+operation=update

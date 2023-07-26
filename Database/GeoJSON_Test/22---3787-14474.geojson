@@ -1,0 +1,14 @@
+{
+    "geometry": {
+        "coordinates": [
+            144.7420942602,
+            -37.8623592692
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "b": 1,
+        "tag": "t_road_lanes_laneSection_lr_lane_width"
+    },
+    "type": "Feature"
+}

@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "tag": "t_road_lanes_laneSection_left_lane",
+        "type": "taxi",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

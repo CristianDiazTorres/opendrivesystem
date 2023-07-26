@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "fillType": "cobble",
+        "tag": "t_road_objects_object_outlines_outline",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}

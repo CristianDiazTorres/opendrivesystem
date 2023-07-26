@@ -1,0 +1,65 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "hdg": 1,
+                "update_st": "true",
+                "tag": "t_road_signals_signal_positionInertial"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "update_st": "true",
+                "tag": "t_road_signals_signal_positionInertial",
+                "z": 1
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "pitch": 1e+100,
+                "update_st": "true",
+                "tag": "t_road_signals_signal_positionInertial"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    125.6,
+                    10
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "roll": 1e+100,
+                "update_st": "true",
+                "tag": "t_road_signals_signal_positionInertial"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

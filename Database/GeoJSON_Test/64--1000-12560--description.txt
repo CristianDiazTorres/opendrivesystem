@@ -1,0 +1,4 @@
+id=64
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road.geojson
+tag=t_road
+operation=update

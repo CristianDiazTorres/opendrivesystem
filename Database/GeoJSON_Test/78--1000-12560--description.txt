@@ -1,0 +1,4 @@
+id=78
+geoJSONStagingFilePath=C:/_/__/ODS/OpenDRIVESystem2/GeoJSONTemplate/General/t_road_lanes_laneOffset.geojson
+tag=t_road_lanes_laneOffset
+operation=update

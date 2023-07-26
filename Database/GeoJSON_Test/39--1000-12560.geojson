@@ -1,0 +1,15 @@
+{
+    "geometry": {
+        "coordinates": [
+            125.6,
+            10
+        ],
+        "type": "Point"
+    },
+    "properties": {
+        "contactPoint": "start",
+        "tag": "t_junction_connection",
+        "update_st": "true"
+    },
+    "type": "Feature"
+}
